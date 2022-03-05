@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="200" height="243" src="https://raw.githubusercontent.com/Lennolium/PrivacyShield/a70affbabd0451ee45265d6fdb691be8157946dd/Logo.png?token=ASH2D7P2GENYE54KJYRKB6LCEOWUU" alt="logo" />
+  <img width="200" height="243" src="https://github.com/Lennolium/PrivacyShield/blob/6ab7b13b149e0d49b4f150fee0a44dcc6bb4d5b7/Logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
