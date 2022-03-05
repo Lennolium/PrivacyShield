@@ -78,13 +78,11 @@ https://blockads.fivefilters.org/
 ## <ins>Included Lists</ins>
 The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
   
-| #   | TITLE                  | DESCRIPTION                                                                                                                      | SOURCE                                                                                    |
-| --- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 01  | AdGuard DNS filter          | Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.   | [Link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)       |
-| 02  | The Quantum Simply Ads List          | Made an AI to track and analyse every websites, a bit like a web crawler, to find and identify ads.
-It is a list containing over 1300000 domains used by ads, trackers, miners, malwares, and much more!                               | [Link](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt)       |
-| 03  | The Quantum Simply Fake Sites List   | Blocks social media. Should only be used with the 'Main' List                                                                    | [Link](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/81ca271df0cb79f2317d8b0651f05007813a5293/Individual%20lists/The_Quantum_Fakesites.txt)   |
-  
+| #   | TITLE                            | DESCRIPTION                          | SOURCE                                                                                      |
+| --- | -------------------------------- |:------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| 1   | AdGuard DNS filter               | Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking. | [Link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)  |                              
+| 2   | Quantum Simply Ads               | FMade an AI to track and analyse every websites, a bit like a web crawler, to find and identify ads. | [Link](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt)  |   
+| 3   | Quantum Fake Sites               | Made an AI to track and analyse every websites, a bit like a web crawler, to find and identify ads. | [Link](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/81ca271df0cb79f2317d8b0651f05007813a5293/Individual%20lists/The_Quantum_Fakesites.txt)  |        
   
 ## <ins>Credits</ins>
 Full credit for the actual blocking ability goes to original list creators and maintainers.
