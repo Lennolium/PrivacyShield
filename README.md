@@ -1,6 +1,3 @@
-# PrivacyShield
-A comprehensive Filter List optimized for DNS level blocking of ads, analytics, tracking, malware &amp; scam.
-
 <div align="center">  
   <img width="440" height="110" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/blacklist-logo.png" alt="logo" />
 </div>
@@ -35,7 +32,7 @@ A comprehensive Filter List optimized for DNS level blocking of ads, analytics, 
 </div>
 
 <div align="center">
-  <h1>Curated hostfile to block trackers and advertisements</h1> 
+  <h1>A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.</h1> 
 </div>
 
 </div>
