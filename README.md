@@ -32,12 +32,12 @@
 </div>
 
 <div align="center">
-  <h1>A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.</h1> 
+  <h1>Lennolium's Privacy Shield</h1> 
 </div>
 
 </div>
 <div align="center">
-A well-maintained and curated host file containing domains that serve ads, tracking scripts and malware. Each domain is tested and verified before addding to the list. Any reported false positives will be removed as soon as possible. You can request additional domains or report false positives via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
+A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. You can request additional domains or report false positives via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
 </div>
 
 <div align="center">
