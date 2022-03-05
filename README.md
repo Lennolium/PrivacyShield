@@ -44,9 +44,9 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - [License](#license)
 
 ## <ins>Features</ins>
-- __Host file:__ Based on `hosts` file, all the bad domains are blocked with `0.0.0.0`
-- __Any device:__ Compatible with all devices, regardless of OS.
-- __Blockings:__ Strictly blocks `advertisements, malwares, spams, spyware & trackers` and prevents your system from connecting to them.
+- __AdGuard optimized:__ The blocklist purely contains only domains and IP addresses.
+- __Any device:__ Compatible with all devices, regardless of OS, which support AdGuard.
+- __Blockings:__ Strictly blocks `advertisements,analytics, malwares,ransomware,  scam, spams, spyware, telemetry & trackers` and prevents your system from connecting to them.
 - __Page load time:__ Quicker loading and cleaner looking web pages with fewer distractions.
 - __Privacy:__ Helps to `increase` privacy by blocking online trackers.
 - __Efficient:__ Lower resource waste (bandwidth, CPU, memory, battery etc.).
