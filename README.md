@@ -59,7 +59,8 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - __Curated:__ Each domain and tested and verified before adding to the list.
 - __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
 - __Mirror:__ All the files are available in mirror which provides `Last-Modified` header and has [__`99.99% uptime`__](https://hosts-status.anudeep.me/).
-
+</div>
+    
 ## <ins>Usage</ins>
 
 This host file can be used on any device including Android, iOS, Linux, MacOS, routers with custom firmware etc.   __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
