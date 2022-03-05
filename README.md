@@ -68,7 +68,13 @@ For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subje
 You can test if your ad blocker is working properly or not by visiting these websites:       
 https://d3ward.github.io/toolz/adblock.html           
 https://blockads.fivefilters.org/                         
-            
+  
+## <ins>Lists & Credits</ins>
+Full credit for the actual blocking ability goes to original list creators and maintainers.
+
+Thanks so much for their tireless work! 
+     
+  
 ## <ins>License</ins>     
 ```
  GNU GENERAL PUBLIC LICENSE
