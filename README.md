@@ -33,6 +33,8 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 <div align="center">
   <h3>
+    </div>       
+&nbsp;
     
     ## <ins>Table of contents</ins>
 - [Features](#features)
