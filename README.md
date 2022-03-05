@@ -6,13 +6,10 @@
 
 <div align="center"> 
   <a href="#" > 
-    <img src="https://img.shields.io/github/repo-size/anudeepnd/blacklist?label=Repo%20Size&color=orange" alt="repo size" >
+    <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
   <a/>  
    <a href="#" > 
     <img src="https://img.shields.io/github/last-commit/anudeepnd/blacklist?label=Last%20Updated" alt="last updated" >
-  <a/>
-   <a href="https://github.com/anudeepND/blacklist/commits/master" > 
-    <img src="https://img.shields.io/github/commit-activity/m/anudeepnd/blacklist?label=Commit%20Activity" alt="commit activity" >
   <a/>
   <a href="https://hosts-status.anudeep.me/" > 
     <img src="https://img.shields.io/uptimerobot/ratio/7/m785959073-f59c0148484c7e812c476c57?label=Mirror%20Uptime" alt="Mirror Uptime" >
