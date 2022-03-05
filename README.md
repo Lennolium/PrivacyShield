@@ -46,19 +46,15 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
       Check
     </a>
     <span> | </span>
-    <a href="https://hosts.anudeep.me/mirror/">
-      Mirror
-    </a>
-    <span> | </span>
-    <a href="https://github.com/anudeepND/blacklist/issues">
+    <a href="https://github.com/Lennolium/PrivacyShield/issues">
       Submit Issue
     </a>
     <span> | </span>
-    <a href="https://github.com/anudeepND/blacklist/pulls">
+    <a href="https://github.com/Lennolium/PrivacyShield/pulls">
       Submit PR
     </a>
     <span> | </span>
-    <a href="https://www.paypal.com/paypalme/anudeepND">
+    <a href="https://www.paypal.com/paypalme/smogg">
       Donate
     </a>
   </h3>
