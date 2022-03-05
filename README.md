@@ -64,19 +64,6 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 These host files for Unix-like systems, the list contain domains that serve ads, tracking scripts and malware after adding this list to your setup, it prevents your system from connecting to them. Host file preferred over DNS so if a domain name is resolved by the hosts file, the request never leaves your computer.
 
-## <ins>Overview</ins>
-
-<div align="center">
-  
-  __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
-  
-| Host File | Domain Count | Description | Update Frequency | Raw Link | Mirror Link |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| adservers.txt | 42,367 | A reliable host file containing advertising domains, trackers, malwares and other unsafe domains. I collect these domains from my Pi-Hole and I test them for a few days before adding to the list. You can request additional domains or report existing domains via [issues](https://github.com/anudeepND/blacklist/issues) tab. | Frequently | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) | [link](https://hosts.anudeep.me/mirror/adservers.txt) |
-| facebook.txt | 4,000 | Host file containing domains related to facebook.com. This file doesn't block other Facebook products such as WhatsApp, Instagram etc. If you want to block all Facebook related services, use this [list](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt) created by [lightswitch05](https://github.com/lightswitch05/hosts). | Occasionally | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) | [link](https://hosts.anudeep.me/mirror/facebook.txt) |
-| coinminer.txt | 5,939 | This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today. I recommend you to use [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) by ZeroDot1 along with this list. | Discontinued | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) | [link](https://hosts.anudeep.me/mirror/CoinMiner.txt) |
-  
-</div>
 
 ## <ins>Usage</ins>
 
