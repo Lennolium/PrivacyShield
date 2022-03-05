@@ -33,6 +33,19 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 <div align="center">
   <h3>
+    
+    ## <ins>Table of contents</ins>
+- [Features](#features)
+- [Who can use this file?](#who-can-use-this-file)
+- [Overview](#overview)
+- [Usage](#usage)
+- [Validation](#validation)
+- [How do I determine an ad domain?](#how-do-i-determine-an-ad-domain)
+- [Featured in](#featured-in)
+- [Common Issues](#common-issues)
+- [Stargazers over time ](#stargazers-over-time)
+- [Support](#support)
+- [License](#license)
     <a href="https://blockads.fivefilters.org/">
       Check
     </a>
