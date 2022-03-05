@@ -37,7 +37,7 @@
 
 </div>
 <div align="center">
-A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. You can request additional domains or report false positives via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
+A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. You can request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
 </div>
 
 <div align="center">
