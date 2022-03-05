@@ -41,7 +41,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - [Who can use this file?](#who-can-use-this-file)
 - [Overview](#overview)
 - [Usage](#usage)
-- [Validation](#validation)
+- [Check](#check)
 - [How do I determine an ad domain?](#how-do-i-determine-an-ad-domain)
 - [Featured in](#featured-in)
 - [Common Issues](#common-issues)
@@ -60,11 +60,6 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
 - __Mirror:__ All the files are available in mirror which provides `Last-Modified` header and has [__`99.99% uptime`__](https://hosts-status.anudeep.me/).
 
-## <ins>Who can use this file?</ins>
-
-These host files for Unix-like systems, the list contain domains that serve ads, tracking scripts and malware after adding this list to your setup, it prevents your system from connecting to them. Host file preferred over DNS so if a domain name is resolved by the hosts file, the request never leaves your computer.
-
-
 ## <ins>Usage</ins>
 
 This host file can be used on any device including Android, iOS, Linux, MacOS, routers with custom firmware etc.   __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
@@ -80,7 +75,7 @@ __MacOS:__ This host file can be used with [__`gasmask`__](https://github.com/2n
 
 For further assistance, you can send a DM to me on [`Twitter`](https://twitter.com/anudeepnd).  
 
-## <ins>Validation</ins>
+## <ins>Check</ins>
 You can test if your ad blocker is working properly or not by visiting these websites:       
 https://ads-blocker.com/testing/            
 https://blockads.fivefilters.org/                         
