@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <a href="#" > 
-    <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
+    <img src="https://img.shields.io/github/repo-size/lennolium/privacyShield?label=Repo%20Size&color=orange" alt="repo size" >
   <a/>  
    <a href="#" > 
     <img src="https://img.shields.io/github/last-commit/anudeepnd/blacklist?label=Last%20Updated" alt="last updated" >
