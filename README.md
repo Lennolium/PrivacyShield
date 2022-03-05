@@ -68,13 +68,20 @@ For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subje
 You can test if your ad blocker is working properly or not by visiting these websites:       
 https://d3ward.github.io/toolz/adblock.html           
 https://blockads.fivefilters.org/                         
+ 
+## <ins>Included Lists</ins>
+| #   | TITLE                  | DESCRIPTION                                                                                                                      | DOWNLOAD LINK                                                                                    |
+| --- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 01  | The Main List          | Blocks ads, analytics, trackers, crypto-jacking & other such threats/nuisances. Addon lists are available to extend this list.   | [https://abl.arapurayil.com/filters/main.txt](https://abl.arapurayil.com/filters/main.txt)       |
+| 02  | Addon - NSFW           | Blocks nsfw content including porn, gambling, snuff ,etc. Should only be used with the 'Main' List                               | [https://abl.arapurayil.com/filters/nsfw.txt](https://abl.arapurayil.com/filters/nsfw.txt)       |
+| 03  | Addon - Social Media   | Blocks social media. Should only be used with the 'Main' List                                                                    | [https://abl.arapurayil.com/filters/social.txt](https://abl.arapurayil.com/filters/social.txt)   |
   
-## <ins>Lists & Credits</ins>
+  
+## <ins>Credits</ins>
 Full credit for the actual blocking ability goes to original list creators and maintainers.
 
 Thanks so much for their tireless work! 
      
-  
 ## <ins>License</ins>     
 ```
  GNU GENERAL PUBLIC LICENSE
