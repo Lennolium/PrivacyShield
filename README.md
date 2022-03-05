@@ -41,7 +41,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - [Download](#download)
 - [Usage](#usage)
 - [Check](#check)
-- [Inclued Lists](#included-lists)
+- [Included Lists](#included-lists)
 - [Credits](#credits)
 - [License](#license)
 
