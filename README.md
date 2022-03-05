@@ -94,6 +94,7 @@ Please notify me if I have violated a license condition.
      
 ## <ins>License</ins>     
 ```
+ Please see License.md! 
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
