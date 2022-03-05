@@ -6,25 +6,25 @@
 
 <div align="center"> 
   <a href="#" > 
-    <img src="https://img.shields.io/github/repo-size/lennolium/privacyShield?label=Repo%20Size&color=orange" alt="repo size" >
+    <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
   <a/>  
    <a href="#" > 
-    <img src="https://img.shields.io/github/last-commit/anudeepnd/blacklist?label=Last%20Updated" alt="last updated" >
+    <img src="https://img.shields.io/github/last-commit/Lennolium/PrivacyShield?label=Last%20Updated" alt="last updated" >
   <a/>
-  <a href="https://hosts-status.anudeep.me/" > 
+  <a href="#" > 
     <img src="https://img.shields.io/uptimerobot/ratio/7/m785959073-f59c0148484c7e812c476c57?label=Mirror%20Uptime" alt="Mirror Uptime" >
   <a/>
-  <a href="https://github.com/anudeepND/blacklist/issues" > 
+  <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
     <img src="https://img.shields.io/github/issues-raw/anudeepnd/blacklist?label=Open%20Issues&color=critical" alt="open issues" >
   <a/>
-  <a href="https://github.com/anudeepND/blacklist/issues?q=is%3Aissue+is%3Aclosed" > 
+  <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
     <img src="https://img.shields.io/github/issues-closed-raw/anudeepnd/blacklist?label=Closed%20Issues&color=inactive" alt="closed issues" >
   <a/>
-  <a href="https://github.com/anudeepND/blacklist/graphs/contributors" > 
+  <a href="https://github.com/Lennolium/PrivacyShield/graphs/contributors" > 
     <img src="https://img.shields.io/github/contributors/anudeepnd/blacklist?label=Contributors&color=yellow" alt="contributors" >
   <a/>
-  <a href="https://github.com/anudeepND/blacklist/blob/master/LICENSE" > 
-    <img src="https://img.shields.io/github/license/anudeepnd/blacklist?label=License&color=blueviolet" alt="license" >
+  <a href="https://github.com/Lennolium/PrivacyShield/blob/master/LICENSE" > 
+    <img src="https://img.shields.io/github/license/arapurayil/abl" alt="license" >
   <a/>
 </div>
 
