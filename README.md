@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?label=Closed%20Issues&color=inactive" alt="closed issues" >
   <a/>
   <a href="https://github.com/Lennolium/PrivacyShield/blob/master/LICENSE" > 
-    <img src="https://img.shields.io/github/license/arapurayil/abl" alt="license" >
+    <img src="https://img.shields.io/github/license/arapurayil/abl" alt="License" >
   <a/>
 </div>
 
