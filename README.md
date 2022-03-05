@@ -38,9 +38,11 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
     
 ## <ins>Table of contents</ins>
 - [Features](#features)
+- [Download](#download)
 - [Usage](#usage)
 - [Check](#check)
-- [Support](#support)
+- [Inclued Lists](#included-lists)
+- [Credits](#credits)
 - [License](#license)
 
 ## <ins>Features</ins>
@@ -52,6 +54,10 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - __Efficient:__ Lower resource waste (bandwidth, CPU, memory, battery etc.).
 - __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
 
+## <ins>Download</ins>
+| TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
+| --- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.621.839   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
     
 ## <ins>Usage</ins>
 
@@ -62,7 +68,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 &nbsp;
 <sup>Instructions are current as of AdGuard Home version 0.107.5</sup>
 
-For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subject=Question%20regarding%20your%20AdGuard%20Filter%20List).  
+For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subject=Question%20regarding%20your%20AdGuard%20Filter%20List)  
 
 ## <ins>Check</ins>
 You can test if your ad blocker is working properly or not by visiting these websites:       
@@ -70,17 +76,22 @@ https://d3ward.github.io/toolz/adblock.html
 https://blockads.fivefilters.org/                         
  
 ## <ins>Included Lists</ins>
-| #   | TITLE                  | DESCRIPTION                                                                                                                      | DOWNLOAD LINK                                                                                    |
+The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
+  
+| #   | TITLE                  | DESCRIPTION                                                                                                                      | SOURCE                                                                                    |
 | --- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 01  | The Main List          | Blocks ads, analytics, trackers, crypto-jacking & other such threats/nuisances. Addon lists are available to extend this list.   | [https://abl.arapurayil.com/filters/main.txt](https://abl.arapurayil.com/filters/main.txt)       |
-| 02  | Addon - NSFW           | Blocks nsfw content including porn, gambling, snuff ,etc. Should only be used with the 'Main' List                               | [https://abl.arapurayil.com/filters/nsfw.txt](https://abl.arapurayil.com/filters/nsfw.txt)       |
-| 03  | Addon - Social Media   | Blocks social media. Should only be used with the 'Main' List                                                                    | [https://abl.arapurayil.com/filters/social.txt](https://abl.arapurayil.com/filters/social.txt)   |
+| 01  | AdGuard DNS filter          | Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.   | [Link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)       |
+| 02  | Addon - NSFW           | Blocks nsfw content including porn, gambling, snuff ,etc. Should only be used with the 'Main' List                               | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)       |
+| 03  | Addon - Social Media   | Blocks social media. Should only be used with the 'Main' List                                                                    | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)   |
   
   
 ## <ins>Credits</ins>
 Full credit for the actual blocking ability goes to original list creators and maintainers.
 
-Thanks so much for their tireless work! 
+Thanks so much for your tireless work! 
+  
+  
+Please notify me if I have violated a license condition.
      
 ## <ins>License</ins>     
 ```
