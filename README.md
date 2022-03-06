@@ -57,7 +57,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 ## <ins>Download</ins>
 | TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
 | --- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.621.839   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
+| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.841.552   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
     
 ## <ins>Usage</ins>
 
