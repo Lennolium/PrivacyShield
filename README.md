@@ -8,14 +8,20 @@
   <a href="#" > 
     <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
   <a/>  
-   <a href="#" > 
+   <a href="https://github.com/Lennolium/PrivacyShield/branches" > 
     <img src="https://img.shields.io/github/last-commit/Lennolium/PrivacyShield?label=Last%20Updated" alt="last updated" >
   <a/>
+  <a href="https://github.com/Lennolium/PrivacyShield#download" > 
+    <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="stable version" >
+  <a/>   
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
     <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
   <a/>
   <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
     <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?label=Closed%20Issues&color=inactive" alt="closed issues" >
+  <a/>
+     <a href="https://tinyurl.com/opinionoffriends" > 
+    <img src="https://img.shields.io/badge/Rating-★★★★★-yellow" alt="rating" >
   <a/>
   <a href="https://github.com/Lennolium/PrivacyShield/blob/master/LICENSE" > 
     <img src="https://img.shields.io/github/license/Lennolium/PrivacyShield?label=License&color=blueviolet" alt="License" >
