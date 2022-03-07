@@ -4,19 +4,6 @@
 &nbsp;
 &nbsp;
 
-<!-- First, your background image is a DIV with a background 
-     image style applied, not a IMG tag. -->
-<div style="background-image:url(https://via.placeholder.com/200);">
-    <!-- Second, create a placeholder div to assist in positioning 
-         the other images. This is relative to the background div. -->
-    <div style="position: relative; left: 0; top: 0;">
-        <!-- Now you can place your IMG tags, and position them relative 
-             to the container we just made -->   
-        <img src="https://via.placeholder.com/100" style="position: relative; top: 0; left: 0;"/>
-    </div>
-</div>
-
-
 <div align="center"> 
   <a href="#" > 
     <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
@@ -51,7 +38,7 @@
 
 </div>
 <div align="center">
-A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. Merged collection of lists from        reputable sources. You can request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
+A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.<Br> Merged collection of lists from        reputable sources. You can request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
 </div>
 
 <div align="center">
