@@ -50,6 +50,9 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - [Features](#features)
 - [Download](#download)
 - [Usage](#usage)
+  - [AdGuard Home](#adguard-home)
+  - [AdGuard iOS](#adguard-ios)
+  - [AdGuard Android](#adguard-android)
 - [Check](#check)
 - [Included Lists](#included-lists)
 - [Credits](#credits)
@@ -72,14 +75,53 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
   
   
 ## <ins>Usage</ins>
-
-1. Copy the link to the Filter List (raw/perma link).
-2. Add the URL to your AdGuard's block list (**Login** > **Filters** > **DNS Blocklists** > **Add blocklist** > **Add a custom list** > **Enter Name** > **Paste copied link URL**)
-3. List is automatically enabled and ready to start blocking.
-
-&nbsp;
-<sup>Instructions are current as of AdGuard Home version 0.107.5</sup>
-
+Follow the Instructions for your specific platform below to successfully implement the List.
+  
+  
+  ### <ins>AdGuard Home</ins>
+<!-- -->
+1. Copy the link to the Filter List (DOWNLOAD LINK/raw).
+2. Filters
+3. DNS Blocklists
+4. Click "Add blocklist"
+5. Click "Add a custom list"
+6. Where it says: "Enter name" enter: "PrivacyShield" (without quotes)
+7. Where it says: "Enter a URL or an absolute path of the list" paste the copied Link from Step 1.
+8. Click "Save"
+  
+  
+    ### <ins>AdGuard iOS</ins>
+<!-- -->
+1. Copy the link to the Filter List (DOWNLOAD LINK/raw).
+2. Settings ("Cog"-icon in the bottom)
+3. General
+4. Enable "Advanced mode"
+5. Go back to settings ("Cog"-icon in the bottom)
+6. DNS Protection
+7. Enable (if not already enabled)
+8. Toggle OFF to ON
+9. Tap OK then Allow to install a local VPN profile
+10. DNS Filtering
+11. DNS Filters
+12. Add a filter
+13. Where it says: "Enter a filter URL" paste the copied Link from Step 1.
+14. Tap ADD
+  
+   
+  
+    ### <ins>AdGuard Android</ins>
+<!-- -->
+1. Copy the link to the Filter List (DOWNLOAD LINK/raw).
+2. Settings
+3. DNS Filtering
+4. DNS requests blocking
+5. PLUS NEW DNS FILTER
+6. DNS Protection
+7. Where it says: "URL or Path" paste the copied Link from Step 1.
+8. Tap IMPORT
+9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
+10. Tap ADD
+  
 For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subject=Question%20regarding%20your%20AdGuard%20Filter%20List)  
 
 ## <ins>Check</ins>
