@@ -76,7 +76,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
 | --- | ---------------------- |:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.838.440   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
-| Privacy Gate Whitelist | A well-maintained whitelist compiled from reputable sources. (not needed for PrivacyShield)          | 4.415   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
+| Privacy Gate Whitelist | A well-maintained Whitelist compiled from reputable Sources. (Not needed for using PrivacyShield)          | 4.415   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
   
 &nbsp; 
   
