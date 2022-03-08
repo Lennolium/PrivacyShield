@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="200" height="243" src="https://github.com/Lennolium/PrivacyShield/blob/6ab7b13b149e0d49b4f150fee0a44dcc6bb4d5b7/Logo.png" alt="logo" />
+  <img width="600" height="243" src="https://i.ibb.co/7ygkTLV/Privacy-Shield-Banner.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
@@ -38,7 +38,7 @@
 
 </div>
 <div align="center">
-A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.<Br> Merged collection of lists from        reputable sources. You can request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
+A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.<br> Merged collection of lists from reputable sources. A full overview of all used source list can be found under "Included Lists".<br> Request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
 </div>
 
 <div align="center">
