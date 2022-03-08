@@ -59,21 +59,26 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 - [Credits](#credits)
 - [License](#license)
 
+&nbsp;
+ 
 ## <ins>Features</ins>
-- __Optimized:__ The blocklist has 4 times fewer domains than all its aggregated and combined source lists, due to removed duplicates and junk.
-- __Any device:__ Compatible with all devices, regardless of OS, which support AdGuard.
+- __Optimized:__ The blocklist has 5 times fewer domains than all its aggregated and combined source lists, due to removed duplicates and junk.
+- __Any device:__ Compatible with all devices which support AdGuard, regardless of OS.
 - __Blockings:__ Strictly blocks `advertisements,analytics, malwares,ransomware,  scam, spams, spyware, telemetry & trackers` and prevents your system from connecting to them.
 - __Page load time:__ Quicker loading and cleaner looking web pages with fewer distractions.
 - __Privacy:__ Helps to `increase` privacy by blocking online trackers.
 - __Efficient:__ Lower resource waste (bandwidth, CPU, memory, battery etc.).
-- __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
+- __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. Whitelist PrivacyGate already applied to Blocklist.
+
+&nbsp;
 
 ## <ins>Download</ins>
 | TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
 | --- | ---------------------- |:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.838.440   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
-| Privacy Gate Whitelist | A Must-have for using the All-in-One Block List!          | 4.415   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
+| Privacy Gate Whitelist | A well-maintained whitelist compiled from reputable sources. (not needed for PrivacyShield)          | 4.415   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
   
+&nbsp; 
   
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
@@ -125,18 +130,21 @@ Follow the Instructions for your specific platform below to successfully impleme
   
 For further assistance, you can [`Email me!`](mailto:lennart-haack@mail.de?subject=Question%20regarding%20your%20AdGuard%20Filter%20List)  
 
+&nbsp; 
+ 
 ## <ins>Check</ins>
 You can test if your ad blocker is working properly or not by visiting these websites:       
 https://d3ward.github.io/toolz/adblock.html           
 https://blockads.fivefilters.org/                         
+ 
+&nbsp; 
  
 ## <ins>Included Lists</ins>
 The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
 
 [**Click here**](https://github.com/Lennolium/PrivacyShield/blob/64a7c6f0a6a1859bb0e197290128213182a71a97/IncludedLists.md) for a complete Overview.
   
-
-
+&nbsp;
   
 ## <ins>Credits</ins>
 Full credit for the actual blocking ability goes to original list creators and maintainers.
@@ -146,6 +154,8 @@ Thanks so much for your tireless work!
   
 Please notify me if I have violated a license condition.
      
+&nbsp; 
+ 
 ## <ins>License</ins>     
 ```
  Please see License.md! 
