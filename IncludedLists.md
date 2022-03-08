@@ -55,6 +55,24 @@ https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgerman
 **Easylist Germany Popups** <br>
 https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers_popup.txt
 
+**Easylist Italy Ads** <br>
+https://github.com/easylist/easylistitaly/raw/master/easylistitaly/easylistitaly_adservers.txt
+
+**Easylist China Ads** <br>
+https://github.com/easylist/easylistchina/raw/master/easylistchina.txt
+
+**Easylist Spanish Ads** <br>
+https://github.com/easylist/easylistspanish/raw/master/easylistspanish/easylistspanish_adservers.txt
+
+**Easylist Korean Ads** <br>
+https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_adservers.txt
+
+**Easylist Korean Specific Ads** <br>
+https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_specific_block.txt
+
+**Easylist Hebrew Ads** <br>
+https://github.com/easylist/EasyListHebrew/raw/master/EasyListHebrew.txt
+
 **Easylist Privacy** <br>
 https://easylist.to/easylist/easyprivacy.txt
 
@@ -124,6 +142,15 @@ https://block.energized.pro/extensions/regional/formats/filter
 **1Hosts Pro** <br>
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 
+**BarbBlock** <br>
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/BarbBlock.txt
+
+**Peter Lowe's List Yoyo** <br>
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+**Curben URLHaus** <br>
+https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
@@ -163,9 +190,6 @@ https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 **Esox-Lucius** <br>
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/HTTP%20headers%20aiding%20exploitation
 
-**Curben URLHaus** <br>
-https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
-
 **SomeOneWhoCares Hosts** <br>
 https://someonewhocares.org/hosts/zero/hosts
 
@@ -183,9 +207,6 @@ https://adaway.org/hosts.txt
 
 **PolishFiltersTeam KAD** <br>
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-
-**YoYo Ads** <br>
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 
 **Nicholasb Primary** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt
@@ -228,4 +249,57 @@ https://blocklistproject.github.io/Lists/abuse.txt
 
 **StevenBlack Ad Malware** <br>
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
+
+**Big List of Hacked Malware Web Sites** <br>
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
  
+
+---------- whitelist ----------
+
+AnudeepND Whitelist
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+
+**AnudeepND optional** <br>
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
+
+**DandelionSprout Whitelist** <br>
+https://raw.githubusercontent.com/DandelionSprout/AdGuard-Home-Whitelist/master/whitelist.txt
+
+**DandelionSprout Social** <br>
+https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/SocialFilter/sections/whitelist.txt
+
+**DandelionSprout German** <br>
+https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/GermanFilter/sections/whitelist.txt
+
+**Easylist Germany Allow** <br>
+https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_allowlist.txt
+
+**Easylist Italy Allow** <br>
+https://github.com/easylist/easylistitaly/raw/master/easylistitaly/easylistitaly_allowlist.txt
+
+**Easylist Spanish Allow** <br>
+https://github.com/easylist/easylistspanish/raw/master/easylistspanish/easylistspanish_allowlist.txt
+
+**Easylist Korean Allow** <br>
+https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_whitelist.txt
+
+**DNSlock Whitelist** <br>
+https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list
+
+**DandelionSprout German** <br>
+https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/GermanFilter/sections/whitelist.txt
+
+**hl2guide Whitelist** <br>
+https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
+
+**T145 Whitelist customized** <br>
+https://raw.githubusercontent.com/Lennolium/Misc/main/white_domain.txt
+
+**T145 Original Whitelist** <br>
+https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
+
+**Nicholasb Whitelist** <br>
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Whitelists/Primary%20Whitelist.txt
+
+**Lennolium Personal** <br>
+https://raw.githubusercontent.com/Lennolium/Adguard-Filterlist/main/whitelist_self.txt
