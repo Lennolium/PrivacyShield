@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="600" height="243" src="https://i.ibb.co/7ygkTLV/Privacy-Shield-Banner.png" alt="logo" />
+  <img width="600" height="243" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
