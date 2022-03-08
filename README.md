@@ -1,4 +1,5 @@
 <div align="center">  
+ <a href="#" > 
   <img width="600" height="243" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logo.png" alt="logo" />
 </div>
 &nbsp;
