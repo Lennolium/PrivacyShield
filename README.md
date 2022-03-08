@@ -133,7 +133,7 @@ https://blockads.fivefilters.org/
 ## <ins>Included Lists</ins>
 The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
 
-See [**here**](https://github.com/Lennolium/PrivacyShield/blob/64a7c6f0a6a1859bb0e197290128213182a71a97/IncludedLists.md) for a complete Overview.
+[**Click here**](https://github.com/Lennolium/PrivacyShield/blob/64a7c6f0a6a1859bb0e197290128213182a71a97/IncludedLists.md) for a complete Overview.
   
 
 
