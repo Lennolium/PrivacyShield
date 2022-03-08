@@ -157,8 +157,8 @@ Please notify me if I have violated a license condition.
 &nbsp; 
  
 ## <ins>License</ins>     
-```
- Please see License.md! 
+ For full Version see [**License**](https://github.com/Lennolium/PrivacyShield/blob/85c0d9ca98677b4db1be1c17d92562a8d5147331/LICENSE)!
+ ```
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
