@@ -16,9 +16,6 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 **NoTrack** <br>
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
-**DandelionSprout GameConsole** <br>
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
-
 **Durablenapkin Scam** <br>
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 
@@ -48,6 +45,9 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 
 **DandelionSprout Unusual Ads** <br>
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
+
+**DandelionSprout GameConsole** <br>
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 
 **Easylist Germany Ads** <br>
 https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
@@ -127,7 +127,7 @@ https://fanboy.co.nz/fanboy-cookiemonster.txt
 **Wally3k Personal** <br>
 https://v.firebog.net/hosts/static/w3kbl.txt
 
-**HBlock Ads** <br>
+**hblock Ads** <br>
 https://hblock.molinero.dev/hosts_adblock.txt
 
 **aBL Block** <br>
@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 **AnudeepND Adservers** <br>
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
-**NimalHostsBlocker** <br>
+**MinimalHostsBlocker** <br>
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 
 **DeveloperDan Ads Extended** <br>
@@ -205,7 +205,7 @@ https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/t
 **AdAway Ads** <br>
 https://adaway.org/hosts.txt
 
-**PolishFiltersTeam KAD** <br>
+**PolishFiltersTeam KADhosts** <br>
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 **Nicholasb Primary** <br>
@@ -271,6 +271,30 @@ https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/SocialFi
 **DandelionSprout German** <br>
 https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/GermanFilter/sections/whitelist.txt
 
+**DandelionSprout English** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/EnglishFilter/sections/whitelist.txt
+
+**DandelionSprout French** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/FrenchFilter/sections/whitelist.txt
+
+**DandelionSprout Japanese** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/JapaneseFilter/sections/whitelist.txt
+
+**DandelionSprout Russian** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/RussianFilter/sections/whitelist.txt
+
+**DandelionSprout Spanish** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/SpanishFilter/sections/whitelist.txt
+
+**DandelionSprout Turkish** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/TurkishFilter/sections/whitelist.txt
+
+**DandelionSprout Safari** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/SafariFilter/sections/whitelist.txt
+
+**DandelionSprout Mobile** <br>
+https://github.com/DandelionSprout/AdguardFilters/raw/master/MobileFilter/sections/whitelist.txt
+
 **Easylist Germany Allow** <br>
 https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_allowlist.txt
 
@@ -285,9 +309,6 @@ https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_whitelis
 
 **DNSlock Whitelist** <br>
 https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list
-
-**DandelionSprout German** <br>
-https://raw.githubusercontent.com/DandelionSprout/AdguardFilters/master/GermanFilter/sections/whitelist.txt
 
 **hl2guide Whitelist** <br>
 https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
