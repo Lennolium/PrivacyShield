@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/commit-activity/m/Lennolium/PrivacyShield?label=Commit%20Activity" alt="commit activity" >
      <a/>
   <a href="https://github.com/Lennolium/PrivacyShield#download" > 
-    <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen" alt="stable version" >
+    <img src="https://img.shields.io/badge/Version-1.0.1-brightgreen" alt="stable version" >
   <a/>   
      <br>
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
