@@ -161,6 +161,21 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 **Curben URLHaus** <br>
 https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
 
+**Openphish Filter list** <br> 
+https://openphish.com/feed.txt 
+
+**Phishing Bad Sites** <br> 
+https://raw.githubusercontent.com/MailScanner/v5/master/common/etc/MailScanner/phishing.bad.sites.conf
+
+**My Privacy DNS Matrix Tracking** <br>
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
+
+**My Privacy DNS Matrix Adware** <br>
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list
+
+**StopForumSpam Domains** <br>
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
@@ -262,7 +277,34 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 **Big List of Hacked Malware Web Sites** <br>
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
- 
+
+**Bjornstar's Hosts** <br>
+https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
+
+**Ultimate Hosts Blacklist #0-3** <br>
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts0?raw=true
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts1?raw=true
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts2?raw=true
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts3?raw=true
+
+**Prigent Malware** <br>
+https://v.firebog.net/hosts/Prigent-Malware.txt
+
+**Prigent Phishing** <br>
+https://v.firebog.net/hosts/Prigent-Phishing.txt
+
+**Quidsup NoTrack Annoyance** <br>
+https://quidsup.net/notrack/blocklist.php?download=annoyancedomains
+
+**Quidsup NoTrack Malware** <br>
+https://quidsup.net/notrack/blocklist.php?download=malwaredomains
+
+**Quidsup NoTrack Trackers** <br>
+https://quidsup.net/notrack/blocklist.php?download=trackersdomains
+
+**Quidsup NoTrack Ads** <br>
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+
 
 ## <ins>White List</ins>
 
@@ -334,6 +376,9 @@ https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Whitelists/Primary
 
 **Energized Basic Whitelist** <br>
 https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/filter
+
+**Ultimate Hosts Whitelist** <br>
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
 
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/whitelist_self.txt
