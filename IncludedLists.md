@@ -1,8 +1,15 @@
 ## <ins>Included Lists</ins>
 The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
-  
+<br><br>
 
----------- Syntax: adblock ----------
+## <ins>Table of contents</ins>
+- [AdBlock Syntax](#adblock)
+- [Hosts Syntax](#hosts)
+- [White List](#white-list)
+  
+<br>  
+
+## <ins>AdBlock</ins>
 
 **AdGuard** <br>
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -158,7 +165,7 @@ https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
 https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
 
----------- Syntax: hosts ----------
+## <ins>Hosts</ins>
 
 **Quantum Simply Ads** <br>
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
@@ -257,7 +264,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
  
 
----------- whitelist ----------
+## <ins>White List</ins>
 
 **AnudeepND Whitelist**
 https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
