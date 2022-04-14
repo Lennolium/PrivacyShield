@@ -43,9 +43,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
  
  [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=flat-square&logo=paypal)](https://www.paypal.me/smogg)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
- 
 </div>
-
 <div align="center">
   <h3>
     </div>       
