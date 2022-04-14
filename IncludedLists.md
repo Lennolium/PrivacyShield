@@ -139,6 +139,9 @@ https://block.energized.pro/ultimate/formats/filter
 **Energized Regional Extension** <br>
 https://block.energized.pro/extensions/regional/formats/filter
 
+**Energized eXtreme Extension** <br>
+https://block.energized.pro/extensions/xtreme/formats/filter
+
 **1Hosts Pro** <br>
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 
@@ -256,7 +259,7 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 
 ---------- whitelist ----------
 
-**AnudeepND Whitelist**
+AnudeepND Whitelist
 https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 
 **AnudeepND optional** <br>
@@ -322,5 +325,8 @@ https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
 **Nicholasb Whitelist** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Whitelists/Primary%20Whitelist.txt
 
+**Energized Basic Whitelist** <br>
+https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/filter
+
 **Lennolium Personal** <br>
-https://raw.githubusercontent.com/Lennolium/Adguard-Filterlist/main/whitelist_self.txt
+https://raw.githubusercontent.com/Lennolium/Misc/main/whitelist_self.txt
