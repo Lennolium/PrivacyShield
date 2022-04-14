@@ -40,6 +40,10 @@
 </div>
 <div align="center">
 A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. Merged collection of lists from reputable sources.<br> A full overview of all used source list can be found under "Included Lists". Request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab.
+ 
+ [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=flat-square&logo=paypal)](https://www.paypal.me/smogg)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
+ 
 </div>
 
 <div align="center">
