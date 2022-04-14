@@ -259,7 +259,7 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 
 ---------- whitelist ----------
 
-AnudeepND Whitelist
+**AnudeepND Whitelist**
 https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 
 **AnudeepND optional** <br>
