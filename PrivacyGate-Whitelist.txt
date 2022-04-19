@@ -36,7 +36,7 @@
 ! Title: Lennolium's Privacy Gate Whitelist
 ! Format: AdGuard
 ! Release: 1.1.0
-! Entries: 25.511
+! Entries: 35.429
 ! License: GNU GPLv3
 ! Updated: Thu, 19 Apr 22 09:26:14 +01
 ! -------------------------------------------------
