@@ -3,13 +3,12 @@ The List is gathered from many multiple sources, combined into one file, duplica
 <br><br>
 
 ## <ins>Table of contents</ins>
-- [AdBlock Syntax](#adblock)
-- [Hosts Syntax](#hosts)
+- [Block List](#block-list)
 - [White List](#white-list)
   
 <br>  
 
-## <ins>AdBlock</ins>
+## <ins>Block List</ins>
 
 **AdGuard** <br>
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -176,9 +175,6 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
-
-## <ins>Hosts</ins>
-
 **Quantum Simply Ads** <br>
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
 
@@ -310,6 +306,27 @@ https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 
 **Phishing Army Block** <br>
 https://phishing.army/download/phishing_army_blocklist.txt
+
+**NeoDevHost Lite** <br>
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
+
+**Craiu Mobile Trackers** <br>
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
+
+**BlockConvert Adblock** <br>
+https://mkb2091.github.io/blockconvert/output/adblock.txt
+
+**BigDargon Hosts** <br>
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+
+**OSINT Threat Intel** <br>
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+
+**TheGreatWall** <br>
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
+
+**Mal DNS Search Mandiant** <br>
+https://raw.githubusercontent.com/jonschipp/mal-dnssearch/master/mandiant_apt1.dns
 
 
 ## <ins>White List</ins>
