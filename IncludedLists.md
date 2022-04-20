@@ -3,13 +3,12 @@ The List is gathered from many multiple sources, combined into one file, duplica
 <br><br>
 
 ## <ins>Table of contents</ins>
-- [AdBlock Syntax](#adblock)
-- [Hosts Syntax](#hosts)
+- [Block List](#block-list)
 - [White List](#white-list)
   
 <br>  
 
-## <ins>AdBlock</ins>
+## <ins>Block List</ins>
 
 **AdGuard** <br>
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -86,7 +85,7 @@ https://easylist.to/easylist/easyprivacy.txt
 **Easylist Anti-Adblock** <br>
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
-**Easylist Cookies** <br>
+**Easylist Cookies (Fanboy)** <br>
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 **Matomo Referrer Spam** <br>
@@ -127,9 +126,6 @@ https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 
 **NoTracking** <br>
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-
-**Fanboy Cookies** <br>
-https://fanboy.co.nz/fanboy-cookiemonster.txt
 
 **Wally3k Personal** <br>
 https://v.firebog.net/hosts/static/w3kbl.txt
@@ -179,9 +175,6 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
-
-## <ins>Hosts</ins>
-
 **Quantum Simply Ads** <br>
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
 
@@ -221,6 +214,12 @@ https://someonewhocares.org/hosts/zero/hosts
 **Hoshsadiq NoCoin** <br>
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
+**Hoshsadiq Adguard Blocked Hosts** <br>
+https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/53da5cea15bcfa924282e3c0fddf5aeb95ea4de1/adguard-lists
+
+**Hoshsadiq Blocked Hosts** <br>
+https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/master/hosts
+
 **LLACB47 TikTok** <br>
 https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
 
@@ -239,7 +238,7 @@ https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary
 **Nicholasb Secondary** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt
 
-**Nicholasb Teriary** <br>
+**Nicholasb Tertiary** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt
 
 **Blocklistproject (BLP) SmartTV** <br>
@@ -282,9 +281,9 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 
 **Ultimate Hosts Blacklist #0-3** <br>
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts0?raw=true
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts1?raw=true
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts2?raw=true
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts0?raw=true <br>
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts1?raw=true <br>
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts2?raw=true <br>
 https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts3?raw=true
 
 **Prigent Malware** <br>
@@ -304,6 +303,30 @@ https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 
 **Quidsup NoTrack Ads** <br>
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+
+**Phishing Army Block** <br>
+https://phishing.army/download/phishing_army_blocklist.txt
+
+**NeoDevHost Lite** <br>
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
+
+**Craiu Mobile Trackers** <br>
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
+
+**BlockConvert Adblock** <br>
+https://mkb2091.github.io/blockconvert/output/adblock.txt
+
+**BigDargon Hosts** <br>
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+
+**OSINT Threat Intel** <br>
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+
+**TheGreatWall** <br>
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
+
+**Mal DNS Search Mandiant** <br>
+https://raw.githubusercontent.com/jonschipp/mal-dnssearch/master/mandiant_apt1.dns
 
 
 ## <ins>White List</ins>
@@ -379,6 +402,48 @@ https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/forma
 
 **Ultimate Hosts Whitelist** <br>
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
+
+**NoTracking** <br>
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+
+**ChinaCDN White List** <br>
+https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
+
+**ShadowWhisperer White List** <br>
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist
+
+**URL-Shorteners** <br>
+https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
+
+**Freekers Whitelist** <br>
+https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt
+
+**Hospital Domains** <br>
+https://raw.githubusercontent.com/cbuijs/shallalist/master/hospitals/domains
+
+**Banking Domains** <br>
+https://raw.githubusercontent.com/cbuijs/shallalist/master/finance/banking/domains
+
+**Beverdam White List** <br>
+https://raw.githubusercontent.com/Beverdam/whitelist-Nederland/master/domains/whitelist.txt
+
+**Affiliate Tracking Domains** <br>
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+
+**Combined Whitelists** <br>
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedWhitelists/CombinedWhiteLists.txt
+
+**BlahDNS White List** <br>
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
+
+**FadeMind White List** <br>
+https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.notracking
+
+**AnudeepND White List** <br>
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
+
+**AnudeepND Referral** <br>
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
 
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/whitelist_self.txt
