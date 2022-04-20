@@ -86,7 +86,7 @@ https://easylist.to/easylist/easyprivacy.txt
 **Easylist Anti-Adblock** <br>
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
-**Easylist Cookies** <br>
+**Easylist Cookies (Fanboy)** <br>
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 **Matomo Referrer Spam** <br>
@@ -127,9 +127,6 @@ https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 
 **NoTracking** <br>
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-
-**Fanboy Cookies** <br>
-https://fanboy.co.nz/fanboy-cookiemonster.txt
 
 **Wally3k Personal** <br>
 https://v.firebog.net/hosts/static/w3kbl.txt
