@@ -383,5 +383,47 @@ https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/forma
 **Ultimate Hosts Whitelist** <br>
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
 
+**NoTracking** <br>
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+
+**ChinaCDN White List** <br>
+https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
+
+**ShadowWhisperer White List** <br>
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist
+
+**URL-Shorteners** <br>
+https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
+
+**Freekers Whitelist** <br>
+https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt
+
+**Hospital Domains** <br>
+https://raw.githubusercontent.com/cbuijs/shallalist/master/hospitals/domains
+
+**Banking Domains** <br>
+https://raw.githubusercontent.com/cbuijs/shallalist/master/finance/banking/domains
+
+**Beverdam White List** <br>
+https://raw.githubusercontent.com/Beverdam/whitelist-Nederland/master/domains/whitelist.txt
+
+**Affiliate Tracking Domains** <br>
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+
+**Combined Whitelists** <br>
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedWhitelists/CombinedWhiteLists.txt
+
+**BlahDNS White List** <br>
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
+
+**FadeMind White List** <br>
+https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.notracking
+
+**AnudeepND White List** <br>
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
+
+**AnudeepND Referral** <br>
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
+
 **Lennolium Personal** <br>
 https://raw.githubusercontent.com/Lennolium/Misc/main/whitelist_self.txt
