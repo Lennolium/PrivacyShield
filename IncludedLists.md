@@ -308,6 +308,9 @@ https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 **Quidsup NoTrack Ads** <br>
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 
+**Phishing Army Block** <br>
+https://phishing.army/download/phishing_army_blocklist.txt
+
 
 ## <ins>White List</ins>
 
