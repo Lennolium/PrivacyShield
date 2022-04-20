@@ -218,6 +218,12 @@ https://someonewhocares.org/hosts/zero/hosts
 **Hoshsadiq NoCoin** <br>
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
+**Hoshsadiq Adguard Blocked Hosts** <br>
+https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/53da5cea15bcfa924282e3c0fddf5aeb95ea4de1/adguard-lists
+
+**Hoshsadiq Blocked Hosts** <br>
+https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/master/hosts
+
 **LLACB47 TikTok** <br>
 https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
 
