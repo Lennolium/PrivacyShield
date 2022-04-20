@@ -242,7 +242,7 @@ https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary
 **Nicholasb Secondary** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt
 
-**Nicholasb Teriary** <br>
+**Nicholasb Tertiary** <br>
 https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt
 
 **Blocklistproject (BLP) SmartTV** <br>
