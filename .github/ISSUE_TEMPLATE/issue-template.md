@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <div align="center">  
-  <img width="247" height="100" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logo.png" alt="logo" />
+  <img width="247" height="100" src="https://github.com/Lennolium/PrivacyShield/blob/main/Logos/Logo.png?raw=true" alt="logo" />
 </div>
 
 <h2 align="center">Issue Submit Form</h2>
@@ -22,7 +22,7 @@ Type `x` in between `[ ]` and make sure there isn't any space between brackets. 
 You can select more than one category of issues if you need to!
 
 - [ ] Whitelist
-- [ ] Blacklist
+- [ ] Blacklist (Bronze, Silver, ...?)
 - [ ] App Broken
 - [ ] Website Broken
 - [ ] Image(s) not showing
