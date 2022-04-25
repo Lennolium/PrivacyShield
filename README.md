@@ -83,7 +83,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
 | **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-diamond.txt)  |
 | **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Antimatter.svg" alt="logo" />](#download)  |
-| **Domains**  |  Domain Version of the Platinum Filter List  | 8M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-domains.txt)  |
+| **Domains**  |  Domain Version of the Platinum Filter List  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-domains.txt)  |
 | **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyGate-whitelist.txt)  |
  
 ## <ins>Usage</ins>
