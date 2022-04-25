@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/commit-activity/m/Lennolium/PrivacyShield?label=Commit%20Activity" alt="commit activity" >
      <a/>
   <a href="https://github.com/Lennolium/PrivacyShield#download" > 
-    <img src="https://img.shields.io/badge/Version-1.0.1-brightgreen" alt="stable version" >
+    <img src="https://img.shields.io/badge/Version-1.1.0-brightgreen" alt="stable version" >
   <a/>   
      <br>
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
@@ -74,14 +74,18 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 &nbsp;
 
-## <ins>Download</ins>
-| TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
-| --- | ---------------------- |:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.984.403   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
-| Privacy Gate Whitelist | A well-maintained Whitelist compiled from reputable Sources.          | 18.511   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
-  
-&nbsp; 
-  
+## <ins>Download</ins> 
+| TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
+| --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
+| **Silver**  |  Very lightweight Protection  | 3M  | 143.222  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-silver.txt)  |
+| **Gold**  |  Mid Range Protection  | 10M  | 494.664  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt)  |
+| **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
+| **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-diamond.txt)  |
+| **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Antimatter.svg" alt="logo" />](#download)  |
+| **Domains**  |  Domain Version of the Platinum Filter List  | 8M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-domains.txt)  |
+| **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyGate-whitelist.txt)  |
+ 
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
   
