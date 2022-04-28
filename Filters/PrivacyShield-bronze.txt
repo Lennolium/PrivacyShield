@@ -38,10 +38,10 @@
 ! -------------------------------------------------
 ! Title: Lennolium's Privacy Shield Bronze
 ! Format: AdGuard
-! Release: 1.1.0
-! Entries: 48.562
+! Release: 1.1.1
+! Entries: 48.485
 ! License: GNU GPLv3
-! Updated: Wed, 20 Apr 22 13:54:36 +01
+! Updated: Wed, 27 Apr 22 12:51:57 +01
 ! -------------------------------------------------
 !
 !
@@ -1089,7 +1089,6 @@
 ||adfusion.com^
 ||adg99.com^
 ||adgardener.com^
-||adgebra.co.in^
 ||adgila.com^
 ||adglare.net^
 ||adglare.org^
@@ -1159,7 +1158,6 @@
 ||adqy6rzwcs.com^
 ||adreach.me^
 ||adrecreate.com^
-||adrenalpop.com^
 ||adrenovate.com^
 ||adrent.net^
 ||adrevenuerescue.com^
@@ -1697,7 +1695,6 @@
 ||anightsregalia.cam^
 ||animatedpopular.com^
 ||animits.com^
-||anizedglittledisco.info^
 ||ankingwit.one^
 ||anlcld.com^
 ||anldnews.pro^
@@ -1834,7 +1831,6 @@
 ||asecw.xyz^
 ||asev.xyz^
 ||asgclickkl.com^
-||asgclickpop.com^
 ||asgclickpp.com^
 ||asgorebysschan.com^
 ||ashcdn.com^
@@ -1932,7 +1928,6 @@
 ||audienceprofiler.com^
 ||audionews.fm^
 ||auditioneasterhelm.com^
-||auditude.com^
 ||audriasite.pro^
 ||augaufta.com^
 ||augheguw.net^
@@ -2759,7 +2754,6 @@
 ||bulkybawler.com^
 ||bullads.net^
 ||bulletprofitads.com^
-||bulletprofitpop.com^
 ||bullionyield.com^
 ||bulrev.com^
 ||bumblecash.com^
@@ -2889,7 +2883,6 @@
 ||canonch.pro^
 ||canvassblanketjar.com^
 ||canyboysho.info^
-||cap-cap-pop.com^
 ||caperedlevi.com^
 ||caphaiks.com^
 ||cappens-dreperor.com^
@@ -3654,7 +3647,6 @@
 ||crm4d.com^
 ||croakflabbyconsume.com^
 ||crocoads.com^
-||crocopop.com^
 ||cromo.name^
 ||crookedcareers.com^
 ||croresh.com^
@@ -4131,7 +4123,6 @@
 ||displaycontentnetwork.com^
 ||displayformatrevenue.com^
 ||displaynews.live^
-||dispop.com^
 ||dissipatecombinedcolon.com^
 ||dissolvedhaunch.com^
 ||distemshu.biz^
@@ -4365,7 +4356,6 @@
 ||dulillipupan.com^
 ||dulombwwfm.com^
 ||dumbclerkwow.com^
-||dumbpop.com^
 ||dummyreopentypes.com^
 ||dumpersgoofed.com^
 ||dunderaffiliates.com^
@@ -5970,7 +5960,6 @@
 ||gustdeficitwry.com^
 ||guvivqlbh.com^
 ||gvcmiz3vze3n.com^
-||gvt2.com^
 ||gwrstksnxo.xyz^
 ||gwwhheahisrtld.com^
 ||gx101.com^
@@ -6464,8 +6453,6 @@
 ||icotrack.net^
 ||icycorrection.com^
 ||idch9s8d.com^
-||iddjpop.com^
-||iddpop.com^
 ||ideahealkeeper.com^
 ||ideliv.net^
 ||idelv.net^
@@ -7187,7 +7174,6 @@
 ||keydawnawe.com^
 ||keyrunmodel.com^
 ||keywordblocks.com^
-||keywordpop.com^
 ||kftefhbheq.com^
 ||kg8l81yh7vnf.com^
 ||kgbtjgqpdrrcjra.com^
@@ -9697,7 +9683,6 @@
 ||ping-traffic.info^
 ||pinifafi.com^
 ||pinkpig2le8tt09.com^
-||pip-pip-pop.com^
 ||pipilida.com^
 ||piplep.com^
 ||pipsol.net^
@@ -9936,7 +9921,6 @@
 ||poyou.xyz^
 ||pp2ppsch1hount1hf.com^
 ||pp98trk.com^
-||ppcashpop.com^
 ||ppctrck.com^
 ||ppfrlfe.com^
 ||pppbr.com^
@@ -11036,7 +11020,6 @@
 ||rtbbnr.com^
 ||rtbidder.net^
 ||rtbnowads.com^
-||rtbpop.com^
 ||rtbsystem.org^
 ||rtbterra.com^
 ||rthequaliti.club^
@@ -12093,7 +12076,6 @@
 ||sweetheartpartial.com^
 ||sweetnesswarnscreech.com^
 ||sweetskojiki.com^
-||swesomepop.com^
 ||swimsunleisure.com^
 ||switchpreposterous.com^
 ||swithaccura.club^
@@ -12111,9 +12093,7 @@
 ||syncdevelopedintenselythefile.vip^
 ||synchronizedoll.com^
 ||syncwowsails.com^
-||syndicpop.com^
 ||syndocassyth.com^
-||syndopop.com^
 ||syndromeseasidecontainer.com^
 ||synsads.com^
 ||syntaxtruckspoons.com^
@@ -14013,7 +13993,6 @@
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxladu.com^
-||xxlargepop.com^
 ||xxltr.com^
 ||xxmfwjlreder.com^
 ||xxssyndic.com^
@@ -14897,7 +14876,6 @@
 ||clickpartoffon.xyz^
 ||clicksor.com^
 ||clicktripz.com^
-||clixco.in^
 ||clixtrac.com^
 ||cogocast.net^
 ||coguan.com^
@@ -15143,7 +15121,6 @@
 ||intopicmedia.com^
 ||inuvo.com^
 ||inuxu.biz^
-||inuxu.co.in^
 ||inviziads.com^
 ||involve.asia^
 ||ipromote.com^
@@ -16405,7 +16382,6 @@
 ||nummobile.com^
 ||oakbustrp.com^
 ||oconner.biz^
-||octopuspop.com^
 ||okeo.ru^
 ||omynews.net^
 ||onedmp.com.^
@@ -16902,7 +16878,6 @@
 ||pod.xpress.com^
 ||porndeals.com^
 ||potd.onlytease.com^
-||profield.ddns.net^
 ||promo.blackcrush.com^
 ||promo.blackdatehookup.com^
 ||promo.cams.com^
@@ -17254,11 +17229,9 @@
 ||xyqgpupnkdmmib.top^
 ||my83s1kw3u.com^
 ||frugalrushcap.com^
-||aterroppop.com^
 ||gwa8i3rrf9mwozpi.pro^
 ||pandanetwork.tk^
 ||pandanetwork.club^
-||syndapop.com^
 ||letaikay.net^
 ||bloggybro.com^
 ||ewerhodub.com^
@@ -17297,7 +17270,6 @@
 ||tczzzlwpss.com^
 ||gobeerta.net^
 @@||play.nova.bg^
-||uptopop.com^
 ||binotwither.com^
 ||3221dkf7m2.com^
 @@||lookmovie.
@@ -17459,7 +17431,6 @@
 ||airartapt.site^
 ||aii.sh^
 ||adsima.net^
-||zarpop.com^
 ||jizekea.ru^
 ||swpqwpprdxe.com^
 ||arteisabello.space^
@@ -19060,7 +19031,6 @@
 ||danyhazo.xyz^
 ||moviesflix4k.work^
 ||xemtivi24h.com^
-||apcats.ddns.net^
 ||srtrak.com^
 ||horacomerciar.com^
 ||bulletprofitadclick.com^
@@ -19665,7 +19635,6 @@
 ||opten.hu^
 ||sigmaad.com^
 ||adnegah.net^
-||yekpop.com^
 ||borsendental.com^
 ||bbtrf.info^
 ||mobilink.az^
@@ -19832,7 +19801,6 @@
 ||qinvaris.com^
 ||sdk.digitalbees.it^
 ||greview.pro^
-||titranco.info^
 ||pnewspages.com^
 ||theiphaeraer.info^
 ||4dsbanner.com^
@@ -20023,7 +19991,6 @@
 ||bleua.ecefibwja.xyz^
 ||roxedltd.co.id^
 ||recallen.info^
-||earnco.in^
 ||ssraju3n.com^
 ||top-games.me^
 ||3l4r8d61yz.com^
@@ -20269,7 +20236,6 @@
 ||adbrn.com^
 ||shmokiads.com^
 ||fasttoss.com^
-||ashow.pcpop.com^
 ||adtwbjs.com^
 ||clyilp.com^
 ||xpicw.top^
@@ -20567,13 +20533,11 @@
 ||rek.www.wp.pl^
 ||s.remonti.org^
 ||ads.farakav.com^
-||rst.pornyhd.com^
 ||ads-media.gameforge.com^
 ||benefits.sovendus.com^
 ||asgdfasad.mm-cgnews.com^
 ||searchad-phinf.pstatic.net^
 ||banners.myads.ge^
-||osm-onead.cdn.hinet.net^
 ||banner.vatanclick.ir^
 ||jdd01.198game.net^
 ||s.worldofmacros.net^
@@ -20883,7 +20847,6 @@ Banner468x60
 @@||mangapark.net^
 @@||routerlogin.com^
 @@||routerlogin.net^
-@@||router.asus.com^
 @@||online.cosmosbank.in^
 @@||target.my.com^
 @@||dashboard.jwplayer.com^
@@ -21430,7 +21393,6 @@ Banner468x60
 ||affidate.com^
 ||affil4you.com^
 ||affilcenter.com^
-||affiliatehub.co.in^
 ||affiliatemorocco.net^
 ||affiliaweb.eu^
 ||affiliaweb.fr^
@@ -21944,7 +21906,6 @@ Banner468x60
 ||qiqiww.com^
 ||quaelead.com^
 ||quanta.lu^
-||quickads.co.in^
 ||qwertize.link^
 ||qwerty1.co.pl^
 ||r867qq.net^
@@ -22241,7 +22202,6 @@ Banner468x60
 ||deskbabes.com^
 ||idancer.eu^
 ||istripper.com^
-||virtuaguyhd.com^
 ||00261bc6d5.com^
 ||01counter.com^
 ||01jud3v55z.com^
@@ -22905,7 +22865,6 @@ Banner468x60
 ||cjklnifreqjlur.xyz^
 ||ckk69drbro.com^
 ||cknfdvto.com^
-||clcknipop.com^
 ||cleanedglistenwhite.com^
 ||clergyprogramsdisavow.com^
 ||clickaslu.com^
@@ -25284,7 +25243,6 @@ Banner468x60
 ||vakghopi.xyz^
 ||vamsoupowoa.com^
 ||variousinvoluntary.com^
-||vavcashpop.com^
 ||vawsmoocah.com^
 ||vbdggcqa.xyz^
 ||vbtnyioesipxu.com^
@@ -25827,7 +25785,6 @@ Banner468x60
 ||minecrunch.co^
 ||minero-proxy-*.sh^
 ||minero.cc^
-||minexmr.com^
 ||mmpool.org^
 ||monerise.com^
 ||monero-miner.net^
@@ -25837,7 +25794,6 @@ Banner468x60
 ||mysite.irkdsu.ru^
 ||mytestminer.xyz^
 ||nablabee.com^
-||nahnoji.cz^
 ||nathetsof.com^
 ||nebabrop.com^
 ||nfwebminer.com^
@@ -25874,7 +25830,6 @@ Banner468x60
 ||static-cnt.bid^
 ||statistic.date^
 ||streambeam.io^
-||supportxmr.com^
 ||tainiesonline.stream^
 ||thatresha.com^
 ||tidafors.xyz^
@@ -25975,7 +25930,6 @@ Banner468x60
 ||betrayedregretdeadline.com^
 ||bidtrk.com^
 ||bidverdrd.com
-||bigpicturepop.com^
 ||billmscurlrev.com^
 ||bittovore.com^
 ||blendernetworks.com^
@@ -26704,7 +26658,6 @@ Banner468x60
 ||privacidade.api.milvus.com.br
 ||global.ketchcdn.com
 ||connect.danone.es
-||notice.sp-prod.net
 ||tag.goadopt.io
 ||ccm19.vucx.de
 -Bannerwerbung-
@@ -27957,7 +27910,6 @@ Banner468x60
 -teasers-
 .bannerbank.
 .braun634.com^
-.pp.ua^
 .richbanner.
 .sextizer.
 .teaser.
@@ -29964,7 +29916,6 @@ Banner468x60
 ||bmk1qvxpp.shop^
 ||bmk5ez3pore1.top^
 ||bmrdrct.best^
-||bngpop.com^
 ||bnjoajn5dfhbbam.ru^
 ||bnpdgha.pro^
 ||bnstero.com^
@@ -30135,7 +30086,6 @@ Banner468x60
 ||cd11cf9055.com^
 ||cdb17d3159e1babff68b.date^
 ||cddn.ru^
-||cdn-ds.ddns.net^
 ||cdn-img.ru^
 ||cdn-my1.ru^
 ||cdn-my2.ru^
@@ -32874,7 +32824,6 @@ Banner468x60
 ||owsezan.ru^
 ||owtori.ru^
 ||oxdx7ahb.site^
-||oxlerco.info^
 ||oxn.gerkon.eu^
 ||oxredex.ru^
 ||oxruse.info^
@@ -34646,7 +34595,6 @@ Banner468x60
 ||westernbubble.com^
 ||wet-kitty.store^
 ||wetg.ml^
-||wetpussyhd.com^
 ||wett45.ru^
 ||wexesz.com^
 ||wfhoj.com^
@@ -36594,7 +36542,6 @@ Banner468x60
 ||goingplatinum.com^
 ||goldspotmedia.com^
 ||goldstats.com^
-||googlesyndication.com^
 ||gostats.com^
 ||gp.dejanews.com^
 ||gpr.hu^
@@ -37058,7 +37005,6 @@ Banner468x60
 ||snoobi.com^
 ||softclick.com.br^
 ||specificmedia.co.uk^
-||specificpop.com^
 ||spezialreporte.de^
 ||spinbox.techtracker.com^
 ||spinbox.versiontracker.com^
@@ -38085,7 +38031,6 @@ Banner468x60
 ||inventionpassenger.com^
 ||invitesugar.com^
 ||ioam.de^
-||ipstack.com^
 ||irchan.com^
 ||iterable.com^
 ||iubzka.online^
@@ -38478,7 +38423,6 @@ Banner468x60
 ||t.visit.disneydestinations.com^
 ||t.visitorqueue.com^
 ||tag.links-analytics.com^
-||tagger.opecloud.com^
 ||takethatad.com^
 ||talentedsteel.com^
 ||tangibleteam.com^
@@ -38514,6 +38458,7 @@ Banner468x60
 ||track.flexlinkspro.com^
 ||track.freemmo2017.com^
 ||track.game18click.com^
+||track.lettingaproperty.com^
 ||track.mailalert.io^
 ||track.miro.com^
 ||track.segmetrics.io^
@@ -40215,7 +40160,6 @@ Banner468x60
 ||logos.videosecrets.com^
 ||logs.ennexa.com^
 ||logs.gaana.com^
-||logs.juspay.in^
 ||logs.redbus.com^
 ||log.thevideo.me^
 ||log.upload.bigdata.haokan.mobi^
@@ -40248,7 +40192,6 @@ Banner468x60
 ||m5v-b.tlnk.io^
 ||ma1310-r.analytics.edgekey.net^
 ||macterklacc.mirtesen.ru^
-||m.addthisedge.com^
 ||m.adkmob.com^
 ||maks-s2010.mirtesen.ru^
 ||malealous.com^
@@ -40814,7 +40757,6 @@ Banner468x60
 ||s3.smi2.net^
 ||s3so.tlnk.io^
 ||s42.vshare.io^
-||s7.addthis.com.prx.proxywebsite.co.uk^
 ||s7m8tid.pl4y.download^
 ||s852.tlnk.io^
 ||sales.acceptance.optimonk.com^
@@ -41284,10 +41226,8 @@ Banner468x60
 ||t.unbounce.com^
 ||tutors.sokrati.com^
 ||tv.wps.cn^
-||tw2.netcore.co.in^
 ||t.webengage.com^
 ||twi69.01l.xyz^
-||tw.netcore.co.in^
 ||tw-tags.vizury.com^
 ||txn-report.crittercism.com^
 ||txn-service.crittercism.com^
@@ -41418,7 +41358,6 @@ Banner468x60
 ||wallet.urbanairship.com^
 ||walternsa.com^
 ||watchdog.ohio.gov^
-||watcheshouse.co.in^
 ||wdom.tlnk.io^
 ||we2-e.tlnk.io^
 ||web-ci.urbanairship.com^
@@ -41521,7 +41460,6 @@ Banner468x60
 ||www.orddiltnmmlu.com^
 ||www.outbid.io^
 ||www.pages03.net^
-||www.pcpop.com^
 ||www.petametrics.com^
 ||www.playercdn.com^
 ||www.plocking.win^
@@ -41762,7 +41700,6 @@ Banner468x60
 ||cc.clickagy.com^
 ||i.clickagy.com^
 ||portal.clickagy.com^
-||telemetry.malwarebytes.com^
 ||2z3.vawdcurticate.review^
 ||analytics.247sports.com^
 ||ad.wynk.in^
@@ -41890,7 +41827,6 @@ Banner468x60
 ||www.dclmmbjyshy.com^
 ||www.gdbhmiyly.com^
 ||yes-no-click.online^
-||ematrix.filmipop.com^
 ||mon.snssdk.com^
 ||www.820097982.world^
 ||www.zltsivah.bid^
@@ -43499,7 +43435,6 @@ Banner468x60
 ||app-06.engage.jio.com^
 ||metric.nimo.tv^
 ||sms-in.ads.oppomobile.com^
-||intellectads.co.in^
 ||getdrip.com^
 ||trackwebtrekk.net^
 ||departapp.com^
@@ -43940,7 +43875,6 @@ Banner468x60
 ||log.gomlab.com^
 ||collector-pxk3bezzfo.pxchk.net^
 ||collector-pxk3bezzfo.px-cdn.net^
-||p11.techlab-cdn.com^
 ||50onred.com^
 ||ingestion.contentinsights.com^
 ||adconfig-preprod.wynk.in^
@@ -45472,7 +45406,6 @@ Banner468x60
 ||PAKpolice.com^
 ||USApolice.com^
 ||a-blog.eu^
-||a.cntv.cn^
 ||a.kerg.net^
 ||a7cleaner.com^
 ||aaa-architecten.nl^
@@ -45588,7 +45521,6 @@ Banner468x60
 ||adcycle.footymad.net^
 ||add.f5haber.com^
 ||addstock.co.uk^
-||addthis.com^
 ||ade.wooboo.com.cn^
 ||adengine.rt.ru^
 ||adexpansion.com^
@@ -46316,7 +46248,6 @@ Banner468x60
 ||cleaningformac.com^
 ||clhctrk.com^
 ||clickad.eo.pl^
-||clickbangpop.com^
 ||clicks.minimob.com^
 ||clicks.walla.co.il^
 ||clickserve.eu.dartsearch.net^
@@ -46376,7 +46307,6 @@ Banner468x60
 ||cyberprotection.pro^
 ||cz8.clickzs.com^
 ||d-road.com^
-||d.cntv.cn^
 ||d.getaccss.com^
 ||da.oipzyrzffum.ovh^
 ||daretodreamfarm.com^
@@ -46469,7 +46399,6 @@ Banner468x60
 ||errorfixing.space^
 ||ertopcu.com^
 ||esoterik-lenormand.com^
-||etrk.asus.com^
 ||eu-global-online.com^
 ||eu-global.com^
 ||eu.track.digitaladsystems.com^
@@ -47065,7 +46994,6 @@ Banner468x60
 ||objects.abcvisiteurs.com^
 ||obs.nnm2.ru^
 ||ocslab.com^
-||odd-onead.cdn.hinet.net^
 ||offer.camp^
 ||offers.impower.com^
 ||offers.royalvegascasino.com^
@@ -47101,7 +47029,6 @@ Banner468x60
 ||opsonew3org.sg^
 ||organikusok.blogspot.hu^
 ||orpheus.cuci.nl^
-||osd-onead.cdn.hinet.net^
 ||otletdivak.hu^
 ||otpercpiheno.hu^
 ||overlay.ringtonematcher.com^
@@ -47160,7 +47087,6 @@ Banner468x60
 ||ph-ad21.focalink.com^
 ||philippschoch.ch^
 ||phobia.net^
-||phoenixads.co.in^
 ||phoenixinvestigations.ca^
 ||phones4you.be^
 ||photos.daily-deals.analoganalytics.com^
@@ -47542,7 +47468,6 @@ Banner468x60
 ||susi.adtech.us^
 ||svava.eu^
 ||swa.and.co.uk^
-||swa.metro.co.uk^
 ||sweetsforfree.com^
 ||syn.verticalacuity.com^
 ||sync-share.com^
@@ -47982,7 +47907,6 @@ Banner468x60
 ||www.skywin.com.tw^
 ||www.smailes.plus.com^
 ||www.smichovbike.cz^
-||www.smspop.com^
 ||www.speedyclick.com^
 ||www.spinia.com^
 ||www.sponsoradulto.com^

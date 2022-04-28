@@ -1,4 +1,3 @@
-
 ! -------------------------------------------------
 !           L  E  N  N  O  L  I  U  M ' S           
 ! 
@@ -36,10 +35,10 @@
 ! -------------------------------------------------
 ! Title: Lennolium's Privacy Gate White List
 ! Format: AdGuard
-! Release: 1.1.0
-! Entries: 37.039
+! Release: 1.1.1
+! Entries: 37.582
 ! License: GNU GPLv3
-! Updated: Wed, 20 Apr 22 13:20:19 +01
+! Updated: Wed, 27 Apr 22 15:22:56 +01
 ! -------------------------------------------------
 !
 !
@@ -112,8 +111,6 @@
 @@||status.plex.tv^$important
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
-@@||github.com^$important
-@@||github.io^$important
 @@||raw.githubusercontent.com^$important
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
@@ -127,7 +124,6 @@
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
-# Optimizely
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
@@ -246,8 +242,6 @@
 @@||s.gateway.messenger.live.com^$important
 @@||pricelist.skype.com^$important
 @@||products.office.com^$important
-@@||onedrive.live.com^$important
-@@||outlook.live.com^$important
 @@||outlook.office365.com^$important
 @@||office.com^$important
 @@||office.net^$important
@@ -256,8 +250,6 @@
 @@||notify.xboxlive.com^$important
 @@||nexusrules.officeapps.live.com^$important
 @@||microsoftonline.com^$important
-@@||login.live.com^$important
-@@||login.microsoftonline.com^$important
 @@||licensing.xboxlive.com^$important
 @@||live.com^$important
 @@||msftncsi.com^$important
@@ -268,7 +260,6 @@
 @@||attestation.xboxlive.com^$important
 @@||cert.mgt.xboxlive.com^$important
 @@||clientconfig.passport.net^$important
-@@||ctldl.windowsupdate.com^$important
 @@||dev.virtualearth.net^$important
 @@||device.auth.xboxlive.com^$important
 @@||ecn.dev.virtualearth.net^$important
@@ -277,7 +268,6 @@
 @@||eds.xboxlive.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
 @@||dns.msftncsi.com^$important
 @@||g.live.com^$important
 @@||1drv.com^$important
@@ -523,7 +513,6 @@
 @@||wccftech.com^
 @@||vodafoneindia.tt.omtrdc.net^
 @@||mboxedge22.tt.omtrdc.net^
-@@||sbi.co.in^
 @@||convertkit.com^
 @@||spaceflightnow.com^
 @@||trak.in^
@@ -804,6 +793,7 @@
 @@|*.update.microsoft.com^$important
 @@|*.userstorage.mega.co.nz^$important
 @@|*.vo.msecnd.net^$important
+@@|*.vscode-webview.net^$important
 @@|*.whiskergalaxy.com^$important
 @@|*.windowsupdate.com^$important
 @@|*.wns.windows.com^$important
@@ -1624,6 +1614,7 @@
 @@|cs.wikipedia.com^$important
 @@|cs9.wac.phicdn.net^$important
 @@|csd-apt-sea-d-1.southeastasia.cloudapp.azure.com^$important
+@@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|ctldl.windowsupdate.com^$important
 @@|curben.gitlab.io^$important
@@ -1681,6 +1672,7 @@
 @@|decentraleyes.org^$important
 @@|deepin.org^$important
 @@|def-vef.xboxlive.com^$important
+@@|default.exp-tas.com^$important
 @@|definitionsbd.adaware.com^$important
 @@|definitionupdates.microsoft.com^$important
 @@|defkey.com^$important
@@ -2183,9 +2175,11 @@
 @@|github.blog^$important
 @@|github.com^$important
 @@|github.community^$important
+@@|github.dev^$important
 @@|github.developerdan.com^$important
 @@|github.githubassets.com^$important
 @@|github.io^$important
+@@|github.vscode-unpkg.net^$important
 @@|githubstatus.com^$important
 @@|gitlab.archlinux.org^$important
 @@|gitlab.com^$important
@@ -2622,6 +2616,7 @@
 @@|mail.tutanota.com^$important
 @@|mail.vimeo.com^$important
 @@|mail.xda-developers.com^$important
+@@|main.vscode-cdn.net^$important
 @@|majorgeeks.com^$important
 @@|man.archlinux.org^$important
 @@|manage.devcenter.microsoft.com^$important
@@ -2738,6 +2733,7 @@
 @@|mpc-hc.org^$important
 @@|mpv.io^$important
 @@|mpv.srsfckn.biz^$important
+@@|ms-vscode.vscode-unpkg.net^$important
 @@|msdn.microsoft.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
@@ -2965,6 +2961,7 @@
 @@|paypalobjects.com^$important
 @@|pc-assets.ea.com^$important
 @@|pc.ea.com^$important
+@@|pcdn.brave.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -3541,6 +3538,7 @@
 @@|store-site-backend-static.ak.epicgames.com^$important
 @@|store.acer.com^$important
 @@|store.akamai.steamstatic.com^$important
+@@|store.aldi.com.au^$important
 @@|store.apple.com^$important
 @@|store.bethesda.net^$important
 @@|store.cloudflare.steamstatic.com^$important
@@ -5634,7 +5632,6 @@
 @@||config.rcs.mnc861.mcc405.pub.3gppnetwork.org^
 @@||conncoll.edu^
 @@||connect.polyu.hk^
-@@||connectivity.service.signalr.net^
 @@||connorsstate.edu^
 @@||conservatoire.ru^
 @@||conservatory.az^
@@ -6117,7 +6114,6 @@
 @@||ece.ac.ae^
 @@||ece.fr^
 @@||eciad.bc.ca^
-@@||ecjtu.jx.cn^
 @@||ecla.de^
 @@||ecnu.edu.cn^
 @@||ecok.edu^
@@ -13761,7 +13757,6 @@
 @@||vaniercollege.qc.ca^
 @@||vassar.edu^
 @@||vbspu.ac.in^
-@@||vbu.co.in^
 @@||vcc.ca^
 @@||vcc.edu^
 @@||vccs.edu^
@@ -14533,6 +14528,7 @@
 ! Source: https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
 !
 @@||accounts.krafton.com^
+@@||api.backscatterer.org^
 @@||app.statuscake.com^
 @@||bc-ipn2.paymentus.net^
 @@||bibliogram.art^
@@ -14551,6 +14547,7 @@
 @@||img1.od-cdn.com^
 @@||insiderpaper.com^
 @@||kodify.net^
+@@||lemmy.ml^
 @@||lightning.od-cdn.com^
 @@||mqtt.2030.ltsapis.goog^
 @@||production-ultimate-assets.ratecity.com.au^
@@ -14558,6 +14555,7 @@
 @@||scdn28557.wpc.ad629.nucdn.net^
 @@||secure-api.gravity.com^
 @@||silvergold.media^
+@@||sj18.mktossl.com^
 @@||stc.aeplcdn.com^
 @@||um.edu.mo^
 @@||www.elevenforum.com^
@@ -21891,7 +21889,6 @@
 @@||tw.weibo.com^
 @@||tw03a159.sandai.net^
 @@||twilightparadox.com^
-@@||twimg.com^
 @@||twimg.sinatw.com^
 @@||twitchy.com^
 @@||twt-assets.washtimes.com^
@@ -24094,6 +24091,18 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/749
 @@ simplelogin.co
+
+# https://github.com/notracking/hosts-blocklists/issues/754
+@@ hearstnp.com
+
+# https://github.com/notracking/hosts-blocklists/issues/755
+@@ noscript.net
+
+# https://github.com/notracking/hosts-blocklists/issues/756
+@@ totalav.com
+
+# https://github.com/notracking/hosts-blocklists/pull/752
+@@ ewr1.vultrobjects.com
 
 !
 ! Source name: ChinaCDN Whitelist
@@ -28008,7 +28017,6 @@
 @@||centralbanklanka.org^
 @@||centralbankmalta.com^
 @@||centralbankmalta.org^
-@@||centralbankofindia.co.in^
 @@||centralbanksavannah.com^
 @@||centralbankutah.com^
 @@||centralbk.com^
@@ -28080,7 +28088,6 @@
 @@||cit.com^
 @@||citi.com^
 @@||citibank.be^
-@@||citibank.co.in^
 @@||citibank.co.kr^
 @@||citibank.com^
 @@||citibank.com.au^
@@ -28301,7 +28308,6 @@
 @@||crsaluzzo.it^
 @@||crvolterra.it^
 @@||crystallakebank.com^
-@@||csb.co.in^
 @@||csb4me.com^
 @@||csbanking.com^
 @@||csbanking.com.au^
@@ -29172,7 +29178,6 @@
 @@||hottinger.com^
 @@||houston-mba.com^
 @@||hsbc.ae^
-@@||hsbc.co.in^
 @@||hsbc.co.jp^
 @@||hsbc.co.uk^
 @@||hsbc.com^
@@ -30480,7 +30485,6 @@
 @@||sbhyd.com^
 @@||sbijapan.com^
 @@||sbmct.com^
-@@||sbp.co.in^
 @@||sbp.org.pk^
 @@||sbpv.ch^
 @@||sbr.com^
@@ -31161,7 +31165,6 @@
 @@||texasstatebank.com^
 @@||texnational.com^
 @@||tfp.com^
-@@||thanejanata.co.in^
 @@||thatsmybank.com^
 @@||the-bank.com^
 @@||the-exchange-bank.com^
@@ -31321,7 +31324,6 @@
 @@||unionbankjo.com^
 @@||unionbanknig.com^
 @@||unionbankofblair.com^
-@@||unionbankofindia.co.in^
 @@||unionbankph.com^
 @@||unionbankvt.com^
 @@||unionfederalbank.com^
@@ -32013,8 +32015,6 @@
 @@||deutsche-stimme.de^
 @@||deutsche-wirtschafts-nachrichten.de^
 @@||diepresse.com^
-@@directvapplications.hb.omtrdc.net 
-@@directvnow.com 
 @@||dortmundecho.org^
 @@||einwanderungskritik.de^
 @@||epochtimes.de^
@@ -32039,7 +32039,6 @@
 @@||kulturstudio.info^
 @@||kundencenter.telekom.de^
 @@m.hotmail.com 
-@@m.weeklyad.target.com 
 @@||michael-mannheimer.net^
 @@||news-front.info^
 @@||noch.info^
@@ -32049,9 +32048,6 @@
 @@||politikversagen.net^
 @@pricelist.skype.com 
 @@||rapefugees.net^
-@@s.gateway.messenger.live.com 
-@@s.zkcdn.net 
-@@sa.symcb.com 
 @@||schluesselkindblog.com^
 @@||splashtop.com^
 @@||sportcompactwarehouse.com^
@@ -32061,7 +32057,6 @@
 @@ui.skype.com 
 @@||unzensuriert.de^
 @@||volksstimme.de^
-@@weeklyad.target.com 
 @@||www.mercadolivre.com.br^
 
 !
@@ -32070,6 +32065,9 @@
 !
 @@## This whitelist maintaince by @ookangzheng
 @@## Attribution-NonCommercial 4.0 International (CC BY-NC-SA 4.0)
+
+# Email tracking moengage.com
+@@||api-02.moengage.com^
 
 # goplay.be
 @@message.sp-prod.net # Cname viervijf-be.goplay.be
@@ -32365,24 +32363,8 @@
 
 # Xbox live
 @@xbox.ipv6.microsoft.com 
-@@device.auth.xboxlive.com 
 @@www.msftncsi.com 
-@@title.mgt.xboxlive.com 
-@@xsts.auth.xboxlive.com 
-@@title.auth.xboxlive.com 
-@@ctldl.windowsupdate.com 
-@@attestation.xboxlive.com 
-@@xboxexperiencesprod.experimentation.xboxlive.com 
-@@xflight.xboxlive.com 
-@@cert.mgt.xboxlive.com 
-@@xkms.xboxlive.com 
-@@def-vef.xboxlive.com 
-@@notify.xboxlive.com 
-@@help.ui.xboxlive.com 
-@@licensing.xboxlive.com 
-@@eds.xboxlive.com 
 @@www.xboxlive.com 
-@@v10.vortex-win.data.microsoft.com 
 
 # Times.com nydailys.com
 @@delivery.vidible.tv 
@@ -35145,21 +35127,74 @@
 @@||5231.xg4ken.com^
 @@||shareasale-analytics.com^
 @@||goto-target-com.customtraffic.impactradius.com^
+
+!
+! Source name: Lennolium Personal
+! Source: https://raw.githubusercontent.com/Lennolium/Misc/main/Sources/white_private.txt
+!
+# Lennolium's Private White List
+# -> used also to add false positives reported on github/privacyshield/issues
+
+# GeForce Experience
+
+# GTA Crashing Fix
+
+# Netflix
+
+# Samsung smart TV's network issue
+@@||ns11.whois.co.kr^
+
+# Sky Go (skygo.sky.de)
+
+# Spotify premium and Ps4 app
 @@spclient.wg.spotify.com 
 
 # URL shorteners
 
 # Adobe licence verification endpoints
 
-# Microsoft Office and Win Update
+# Microsoft Office, Win Update and Xbox
 @@outlook.office365.com 
 @@products.office.com 
+@@c.s-microsoft.com 
 @@i.s-microsoft.com 
 @@login.live.com 
 @@sls.update.microsoft.com.akadns.net 
-@@c.s-microsoft.com 
 @@dl.delivery.mp.microsoft.com 
 @@geo-prod.do.dsp.mp.microsoft.com 
+@@fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+@@clientconfig.passport.net 
+@@w xbox.ipv6.microsoft.com 
+@@device.auth.xboxlive.com 
+@@msftncsi.com 
+@@title.mgt.xboxlive.com 
+@@xsts.auth.xboxlive.com 
+@@title.auth.xboxlive.com 
+@@ctldl.windowsupdate.com 
+@@attestation.xboxlive.com 
+@@xboxexperiencesprod.experimentation.xboxlive.com 
+@@xflight.xboxlive.com 
+@@cert.mgt.xboxlive.com 
+@@xkms.xboxlive.com 
+@@def-vef.xboxlive.com 
+@@notify.xboxlive.com 
+@@help.ui.xboxlive.com 
+@@licensing.xboxlive.com 
+@@eds.xboxlive.com 
+@@xboxlive.com 
+@@v10.vortex-win.data.microsoft.com 
+@@s.gateway.messenger.live.com 
+@@client-s.gateway.messenger.live.com 
+@@ui.skype.com pricelist.skype.com 
+@@apps.skype.com m.hotmail.com 
+@@sa.symcb.com 
+@@dev.virtualearth.net 
+@@ecn.dev.virtualearth.net 
+@@t0.ssl.ak.dynamic.tiles.virtualearth.net 
+@@msftconnecttest.com 
+@@*.1drv.com
+@@||officeci-mauservice.azurewebsites.net^
+@@||minecraftprod.rtep.msgamestudios.com^
 
 # Plex App and Web
 @@plex.tv 
@@ -35187,6 +35222,17 @@
 @@o1.email.plex.tv  
 @@o2.sg0.plex.tv 
 
+@@#Sonarr
+@@services.sonarr.tv 
+@@skyhook.sonarr.tv 
+@@download.sonarr.tv 
+@@apt.sonarr.tv 
+
+@@#DirectTV
+@@directvnow.com 
+@@directvapplications.hb.omtrdc.net 
+@@s.zkcdn.net 
+
 # Website Design
 @@placehold.it 
 
@@ -35197,9 +35243,11 @@
 # Apple
 @@captive.apple.com 
 @@gsp1.apple.com 
+@@apple.com 
 @@www.apple.com 
 
-# Epic Games Store
+# Epic Games
+@@(.|^)epicgames.com$
 
 # Firefox
 
@@ -35210,9 +35258,16 @@
 @@||souqcdn.com^
 @@||turn1.whispersystems.org^
 
-# Amazon Shopping, Kindle and Prime Video
+# Twitter
 
-# Host files
+# Banks
+@@||p11.techlab-cdn.com^
+@@||logs.juspay.in^
+
+# Paypal
+@@||104.72.140.80^
+@@(.|^)https://www\.awin1\.com/$
+@@||lancellc.gitbook.io^
 
 # Nintendo Switch
 @@||receive-lp1.dg.srv.nintendo.net^
@@ -35234,8 +35289,16 @@
 @@||104.198.251.169^
 @@beacons*.gvt2.com
 
-# Corona Warnapp (veri=selber positiv, keys senden; svc90=andere positiv, keys empfangen)
+# Corona Warnapp
 @@||verification.coronawarn.app^
+
+# Disney Plus
+@@||disneyplus.com^
+@@||d9.flashtalking.com^
+@@||disney-portal.my.onetrust.com^
+@@||disneyplus.bn5x.net^
+@@||disney-plus.net^
+@@||dssott.com^
 
 # Snapchat
 @@||js.sentry-cdn.com^
@@ -35248,21 +35311,41 @@
 @@clients4.google.com 
 @@clients2.google.com 
 
+# Google and Android
+@@googleapis.com 
+@@reminders-pa.googleapis.com 
+@@connectivitycheck.android.com 
+@@android.clients.google.com 
+@@clients3.google.com 
+@@connectivitycheck.gstatic.com 
+
+# WhatsApp
+@@||dit.whatsapp.net^
+@@||wa.me^
+
+# Reddit
+@@||tracking.dpd.de^
+
 # Websites
 @@||mail.de^
+@@||facebook.de^
+@@||mynt.xyz^
+@@||clashroyaleapp.com^
+
+# Misc
+@@local
 @@||hubtraffic.com^
 @@||trafficjunky.com^
 @@||ht-cdn2.adtng.com^
 @@||cdn77-pic.xnxx-cdn.com^
 @@||cdn77-pic.xvideos-cdn.com^
 @@||checkip.dyndns.org^
-@@local
 @@||blockchain.info^
 @@||cdn.electronic.us^
 @@||js.hs-scripts.com^
 @@||go.veeam.com^
 @@||cdn77-vid.xnxx-cdn.com^
-@@||multi.xnxx.com$importan
+@@||multi.xnxx.com^
 @@||iwanttodeliver.com^
 @@||tracksrv.zdf.de^
 @@||customerservice.paylogic.com^
@@ -35271,10 +35354,8 @@
 @@||inapps.appsflyer.com^
 @@||t.uimserv.net^
 @@||api.eu-west-1.aiv-delivery.net^
-@@||dit.whatsapp.net^
 @@||s.deepl.com^
 @@||images.cgames.de^
-@@||ns11.whois.co.kr^
 @@||sp-ao.shortpixel.ai^
 @@||opensource.guide^
 @@||tokopedia.net^
@@ -35282,17 +35363,31 @@
 @@||sonobi.com^
 @@||grafana.org^
 @@||influxdata.com^
-@@||lancellc.gitbook.io^
 @@||cc-api-data.adobe.io^
-@@msftconnecttest.com 
 @@||perfops.net^
-
-
-!
-! Source name: BlockConvert White List
-! Source: https://mkb2091.github.io/blockconvert/output/whitelist_adblock.txt
-!
-@@[Adblock Plus 2.0]
+@@asadcdn.com code.bildstatic.de 
+@@de.ioam.de 
+@@json.bild.de 
+@@script.ioam.de 
+@@tags.tiqcdn.com 
+@@||tagger.opecloud.com^
+@@weeklyad.target.com 
+@@m.weeklyad.target.com 
+@@||gdlp01.c-wss.com^
+@@appboy-images.com 
+@@||rest.iad-03.braze.com^
+@@||mobileandroidapi.punchh.com^
+@@||cws-hulu.conviva.com^
+@@||tracker4.itzmx.com^
+@@||pop.com^
+@@||internetsociety.org^
+@@*.sp-prod.net
+@@||analytics.tripwireinteractive.com^
+@@||scripts.deejay.it^
+@@||scripts.kataweb.it^
+@@||x-default-stgec.uplynk.com^
+@@||tim.d3.sc.omtrdc.net^
+@@||privacyportal-de.onetrust.com^
 ! Version: 2022-01-07Z
 ! Title: BlockConvert Exception Filters
 ! Last modified: 2022-01-07Z
@@ -36778,7 +36873,6 @@
 @@||imageshack.com^
 @@||imagizer.imageshack.com^
 @@||imageshack.us^
-@@||imagetwist.com^
 @@||imagevenue.com^
 @@||img-bahn.de^
 @@||www.img-bahn.de^
@@ -37663,7 +37757,6 @@
 @@||ppt.cc^
 @@||full.pr0gramm.com^
 @@||pricegrabber.com^
-@@||printfriendly.com^
 @@||prisjakt.nu^
 @@||prismic.io^
 @@||cdn.privacy-mgmt.com^
@@ -37673,7 +37766,6 @@
 @@||prnt.sc^
 @@||image.prntscr.com^
 @@||promodj.com^
-@@||proofpoint.com^
 @@||urldefense.proofpoint.com^
 @@||protonmail.com^
 @@||providesupport.com^
@@ -38339,7 +38431,6 @@
 @@||goto.walmart.com^
 @@||omniture.walmart.com^
 @@||rptrcks.walmart.com^
-@@||wangbase.com^
 @@||www.wangbase.com^
 @@||washingtonpost.com^
 @@||wbd.ms^
@@ -38774,3 +38865,580 @@
 ! Source name: O365 Exact Domains White List
 ! Source: https://raw.githubusercontent.com/TheSmashy/O365Whitlist/main/Manual/ExactDomains.txt
 !
+
+!
+! Source name: LicolnLee AdAllowList
+! Source: https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist
+!
+@@ [Adblock Plus 3.0]
+! Version: 2020071100
+! Title:  Licolnlee's AdWhite
+! Last modified: 2020/07/11 21:24:27 +0800
+
+@@||163.com^$important
+@@||25pp.com^$important
+@@||51240.com^$important
+@@||51cto.com^$important
+@@||8.baidu.com^$important
+@@||accounts.google.com^$important
+@@||a.shifen.com^$important
+@@||acctcdn.msftauth.net^$important
+@@||acg.tv^$important
+@@||acg.fun^$important
+@@||acgfun.com^$important
+@@||adash.man.aliyuncs.com^$important
+@@||addthis.com^$important
+@@||addthisedge.com^$important
+@@||adguard.com^$important
+@@||adtidy.org^$important
+@@||adv.sec.miui.com^$important
+@@||ai.m.taobao.com^$important
+@@||ai.mi.com^$important
+@@||ai.taobao.com^$important
+@@||ai.xiaomi.com^$important
+@@||aka.ms^$important
+@@||alipay.com^$important
+@@||analytics.google.com^$important
+@@||answers.microsoft.com^$important
+@@||api.io.mi.com^$important
+@@||api.weibo.com^$important
+@@||asus.com^$important
+@@||au.download.windowsupdate.com^$important
+@@||az764295.vo.msecnd.net^$important
+@@||azure.microsoft.com^$important
+@@||bing.com^$important
+@@||bitdefender.net^$important
+@@||blizzard.cn^$important
+@@||c.duomai.com^$important
+@@||cainiaoblog.cn^$important
+@@||cas.baidu.com^$important
+@@||cdn.mwbsys.com^$important
+@@||cfilmcloud.cn^$important
+@@||click.simba.taobao.com^$important
+@@||cntv.cn^$important
+@@||cnzz.com^$important
+@@||coles.com.au^$important
+@@||crapblock.theel0ja.info^$important
+@@||ctldl.windowsupdate.com^$important
+@@||dashlane.com^$important
+@@||data.mistat.xiaomi.com^$important
+@@||dc.services.visualstudio.com^$important
+@@||digicert.com^$important
+@@||digitalriver.com^$important
+@@||discordapp.com^$important
+@@||dl.360safe.com^$important
+@@||dl.app.ijinshan.com^$important
+@@||dl.app.qq.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||dl.ijinshan.com^$important
+@@||dl.liebao.cn^$important
+@@||docs.microsoft.com^$important
+@@||doubleclick.net^$important
+@@||down.360safe.com^$important
+@@||download.windowsupdate.com^$important
+@@||dropbox.com^$important
+@@||duckduckgo.com^$important
+@@||ebay.com^$important
+@@||ebay.com.au^$important
+@@||elb-ore-amz.nimbus.bitdefender.net^$important
+@@||energyaustralia.com.au^$important
+@@||epicgames.com^$important
+@@||fd.shouji.360.cn^$important
+@@||feed.baidu.com^$important
+@@||feedly.com^$important
+@@||file.market.xiaomi.com^$important
+@@||free.hitnews.com^$important
+@@||ganji.com^$important
+@@||geekbang.org^$important
+@@||geforce.com^$important
+@@||gfwsl.geforce.com^$important
+@@||github.com^$important
+@@||github.io^$important
+@@||gm.mmstat.com^$important
+@@||gog.com^$important
+@@||gome.com.cn^$important
+@@||googleadservices.com^$important
+@@||googlesyndication.com^$important
+@@||guts2.sp.f-secure.com^$important
+@@||h5.qzone.qq.com^$important
+@@||hcaptcha.com^$important
+@@||hm.baidu.com^$important
+@@||hot.m.shouji.360tpcdn.com^$important
+@@||huangye.miui.com^$important
+@@||hucdn.com^$important
+@@||iflow.uc.cn^$important
+@@||image.uczzd.cn^$important
+@@||imgcache.qq.com^$important
+@@||inoreader.com^$important
+@@||iplay.163.com^$important
+@@||jd.com^$important
+@@||jdownloader.org^$important
+@@||jr.mi.com^$important
+@@||ju.taobao.com^$important
+@@||lastpass.com^$important
+@@||localhost^$important
+@@||localhost.megasyncloopback.mega.nz^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||mail.google.com^$important
+@@||map.baidu.com^$important
+@@||marketplace.visualstudio.com^$important
+@@||market.xiaomi.com^$important
+@@||mediafire.com^$important
+@@||mega.nz^$important
+@@||mipay.com^$important
+@@||mo.baidu.com^$important
+@@||netflix.com$important^$important
+@@||nexusmods.com^$important
+@@||ojrq.net^$important
+@@||onedrive.live.com^$important
+@@||outlook.live.com^$important
+@@||pay.xiaomi.com^$important
+@@||paypal.com^$important
+@@||pcvideoaliyun.titan.mgtv.com^$important
+@@||photo.store.qq.com^$important
+@@||pl.cp12.wasu.tv^$important
+@@||pp.uc.cn^$important
+@@||privacy.microsoft.com^$important
+@@||qiyipic.com^$important
+@@||qq.com^$important
+@@||qwant.com^$important
+@@||raindrop.io^$important
+@@||re.taobao.com^$important
+@@||rpc-php.trafficfactory.biz^$important
+@@||s.360.cn^$important
+@@||s.click.taobao.com^$important
+@@||s.click.tmall.com^$important
+@@||shi.taobao.com^$important
+@@||shifen.com^$important
+@@||shouji.360.cn^$important
+@@||simba.m.taobao.com^$important
+@@||simba.taobao.com^$important
+@@||simg.sinajs.cn^$important
+@@||sirius.mwbsys.com^$important
+@@||slscr.update.microsoft.com^$important
+@@||sm.cn^$important
+@@||softdl.ijinshan.com^$important
+@@||softmgr.duba.net^$important
+@@||sp0.baidu.com^$important
+@@||speedtest.net^$important
+@@||standardnotes.org^$important
+@@||static.321mh.com^$important
+@@||s.yimg.com^$important
+@@||t.uc.cn^$important
+@@||t10.baidu.com^$important
+@@||t11.baidu.com^$important
+@@||t12.baidu.com^$important
+@@||t5.baidu.com^$important
+@@||tagmanager.google.com^$important
+@@||tanx.com^$important
+@@||teams.microsoft.com^$important
+@@||tejia.taobao.com^$important
+@@||telemetry.malwarebytes.com^$important
+@@||temai.taobao.com^$important
+@@||time.windows.com^$important
+@@||tongji.baidu.com^$important
+@@||toshiba.com.au^$important
+@@||toutiao.com^$important
+@@||track.uc.cn^$important
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||tv.sohu.com^$important
+@@||twitch.tv^$important
+@@||ucan.25pp.com^$important
+@@||update.code.visualstudio.com^$important
+@@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
+@@||variety.tc.qq.com^$important
+@@||virustotal.com^$important
+@@||visualstudio.com^$important
+@@||vortex.data.microsoft.com^$important
+@@||wandoujia.com^$important
+@@||webtatic.com^$important
+@@||wire.com^$important
+@@||woolworths.com.au^$important
+@@||www.imageto.org^$important
+@@||www.baidu.com^$important
+@@||www.hao123.com^$important
+@@||xuehuayu.cn^$important
+@@||yhd.com^$important
+@@||zhushou.360.cn^$important
+!
+! Source name: PrivacyProtection Anti Ad Whitelist
+! Source: https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt
+!
+@@||b.bdstatic.com^
+@@||gss0.bdstatic.com^
+@@||gvt2.com^
+@@||wangbase.com^
+@@||edge.yunjiasu.com^
+@@||cd.bendibao.com^
+@@||m.qpic.cn^
+@@||y0.cn^
+@@||bytedance.com^
+@@||tanx.com^
+@@||rarbgprx.org^
+@@||rarbgmirror.org^
+@@||rarbgmirror.com^
+@@||rarbgmirrored.org^
+@@||rarbgaccess.org^
+@@||rarbgp2p.org^
+@@||rarbgproxied.org^
+@@||rarbgproxy.org^
+@@||rarbgto.org^
+@@||rarbgway.org^
+@@||rarbg2019.org^
+@@||rarbg2020.org^
+@@||rarbg2021.org^
+@@||c0.ifengimg.com^
+@@||7moor.com^
+@@||v.smtcdns.net^
+@@||gameone.com^
+@@||ultraiso.net^
+@@||adm.10jqka.com.cn^
+@@||cps.kaola.com^
+@@||iteye.com^
+@@||suo.im^
+@@||hinet.net^
+@@||hubpd.com^
+@@||i.niupic.com^
+@@||image.uczzd.cn^
+@@||t1.58cdn.com.cn^
+@@||t2.58cdn.com.cn^
+@@||t3.58cdn.com.cn^
+@@||ddns.net^
+@@||pushbullet.com^
+@@||zimuku.la^
+@@||qihucdn.com^
+@@||haohuo.snssdk.com^
+@@||msg.video.qiyi.com^
+@@||img.zuoyebang.cc^
+@@||cp81.ott.cibntv.net^
+@@||sj.uukanshu.com^
+@@||apiwz.midukanshu.com^
+@@||niuza.com^
+@@||sourl.cn^
+@@||pp.ua^
+@@||wanproxy.127.net^
+@@||kingsoft.com^
+@@||aiseet.atianqi.com^
+@@||1sapp.com^
+@@||dyn.ithome.com^
+@@||sf6-ttcdn-tos.pstatp.com^
+@@||livere.com^
+@@||ucan.25pp.com^
+@@||co.in^
+@@||m.1234567.com.cn^
+@@||woniu.com^
+@@||manhuachi.com^
+@@||push2.eastmoney.com^
+@@||ename.net^
+@@||hosting24.com^
+@@||valf.atm.cp31.ott.cibntv.net^
+@@||sf3-ttcdn-tos.pstatp.com^
+@@||upload.cc^
+@@||naifei.shop^
+@@||tagtic.cn^
+@@||printfriendly.com^
+@@||cnnic.cn^
+@@||cnnic.net^
+@@||cnnic.net.cn^
+@@||direct.wap.zol.com.cn^
+@@||imop.com^
+@@||mobilelog.kugou.com^
+@@||bssdlbig.kugou.com^
+@@||tvzhe.com^
+@@||live.simcitybuildit.com^
+@@||surge.sh^
+@@||ccclub.cmbchina.com^
+@@||conac.cn^
+@@||3975.com^
+@@||api.cortana.ai^
+@@||umiwi.com^
+@@||doublecklick.net^
+@@||issuecdn.baidupcs.com^
+@@||duiba.com.cn^
+@@||ccmp.eu^
+@@||c3pool.com^
+@@||huoying666.com^
+@@||hsforms.com^
+@@||hsforms.net^
+@@||jx.cn^
+@@||assets.ckjr001.com^
+@@||kpstaticbj.wx.ckjr001.com^
+@@||supportxmr.com^
+@@||imagetwist.com^
+@@||kanjiantu.com^
+@@||eq.10jqka.com.cn^
+@@||stat.10jqka.com.cn^
+@@||ozone.10jqka.com.cn^
+@@||sogoucdn.com^
+@@||widget.gleamjs.io^
+@@||ipstack.com^
+@@||kaipuyun.cn^
+@@||fraudmetrix.cn^
+@@||fp.tongdun.net^
+@@||kaptcha.com^
+@@||dfcfw.com^
+@@||ecard.shenzhentong.com^
+@@||minexmr.com^
+@@||zconfig.alibabausercontent.com^
+@@||proofpoint.com^
+@@||mini.eastday.com^
+@@||dftoutiao.com^
+@@||da.mmarket.com^
+@@||log-upload.mihoyo.com^
+@@||lc-cn-n1-shared.com^
+@@||jspassport.ssl.qhimg.com^
+@@||service.signalr.net^
+@@||threatbook.cn^
+@@||x6img.com^
+@@||ename.com.cn^
+@@||baixing.com^
+@@||aizhigu.com.cn^
+@@||clarins.com.cn^
+@@||jav321.com^
+@@||knet.cn^
+@@||pepsico.com.cn^
+@@||s11.cn^
+@@||nejmqianyan.cn^
+@@||w8.com.cn^
+@@||watchtimes.com.cn^
+@@||whhd.gov.cn^
+@@||xifuquan.com^
+@@||xj-n-tax.gov.cn^
+@@||zazhipu.com^
+@@||ztgame.com^
+@@||yximgs.com^
+@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||browser.mi-img.com^
+@@||pic.imgdb.cn^
+@@||is.snssdk.com^
+@@||down.360safe.com^
+@@||live800.com^
+@@||www.meipian7.cn^
+@@||wxapp.lvyadx.cn^
+@@||wmflabs.org^
+@@||jsinfo.net^
+@@||iflow.uczzd.cn^
+@@||m.uczzd.cn^
+@@||image.zzd.sm.cn^
+@@||nahnoji.cz^
+@@||sascdn.com^
+@@||dynatrace.com^
+@@||auditude.com^
+@@||bluesoleil.com^
+@@||activation.phaseone.com^
+@@||corel.com^
+@@||dbregistration.cuteftp.com^
+@@||cyberlink.com^
+@@||upd.faronicslabs.com^
+@@||lumion3d.com^
+@@||lumion3d.net^
+@@||act2.mediafour.com^
+@@||sams.nikonimaging.com^
+@@||license.piriform.com^
+@@||www.bitsumactivationserver.com^
+@@||licensing.tableausoftware.com^
+@@||techsmith.com^
+@@||binaryage.com^
+@@||wisecleaner.com^
+
+!
+! Source name: OpenSource Ads Whitelist
+! Source: https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt
+!
+@@[Adblock Plus 2.0]
+! Version: 202008171845
+! Title: Open Source Advertising Exception List
+! Last modified: 17 Aug 2020 18:45 UTC
+! Expires: 1 days (update frequency)
+! 
+! Allows advertising that directly supports open source software.
+! 
+! Homepage: http://ads-for-open-source.readthedocs.io/
+! Issues: https://github.com/rtfd/ads-for-opensource/issues
+! 
+! ---------------------------Open Source Exceptions---------------------------!
+! *** lists:lists/opensource.txt ***
+! EthicalAds.io is the ad network for tech sites from Read the Docs
+@@||ethicalads.io/*
+
+! Filezilla Ads are blocked by generic rules on the EasyList
+@@ads.filezilla-project.org
+@@filezilla-project.org#@#.TopAd
+
+! Richie Bendall's Website Ads are blocked by generic rules on the EasyList
+@@||carbonads.com^$domain=richie-bendall.ml
+@@||carbonads.net^$domain=richie-bendall.ml
+@@||buysellads.net^$domain=richie-bendall.ml
+@@||doubleclick.net^$domain=richie-bendall.ml
+! --------------------------Read the Docs Exceptions--------------------------!
+! *** lists:lists/readthedocs.txt ***
+! Read the Docs Ads API
+@@||readthedocs.org/*
+! Ad cosmetic element
+@@readthedocs.io#@#.ethical-rtd
+@@||nflxvideo.net
+@@||llnwd.net
+@@||nflximg.com
+@@||secure.netflix.com
+@@||appboot.netflix.com
+@@||uiboot.netflix.com
+@@||api-global.netflix.com
+
+! YouTube
+@@||youtu.be
+@@||s.youtube.com 
+@@||video-stats.l.google.com
+! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/
+@@||play.googleapis.com
+@@||googlevideo.com
+@@||i.ytimg.com
+
+! Shopping
+@@||assets.adobedtm.com
+@@||nexus.ensighten.com
+
+! Apple / iOS
+
+!Required for updates and some app store apps
+@@||mesu.apple.com
+@@||appleid.apple.com
+@@||ax.phobos.apple.com.edgesuite.net
+
+! Google
+@@||clients4.google.com 
+@@||clients2.google.com
+@@||android.clients.google.com
+@@||googleapis.l.google.com
+
+! Amazon
+@@||mobileanalytics.us-east-1.amazonaws.com 
+@@||cognito-identity.us-east-1.amazonaws.com
+@@||unagi-na.amazon.com
+@@||ocsp.rootg2.amazontrust.com
+@@||det-ta-g7g.amazon.com
+@@||todo-ta-g7g.amazon.com
+@@||device-messaging-na.amazon.com
+@@||vs3-eu-west-1.amazonaws.com
+@@||us-east-1.amazonaws.com
+@@||device-metrics-us-2.amazon.com
+@@||device-metrics-us.amazon.com
+@@||sqs.us-east-1.amazonaws.com
+
+! Reddit 
+! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
+@@||accounts.reddit.com
+@@||i.reddit.com
+@@||redd.it
+@@||cdn.embedly.com
+
+! Twitter
+! Required for links on the mobile app
+@@||analyitics.twitter.com
+! Required for images
+@@||twimg.com^
+
+! Snapchat
+@@||app.snapchat.com
+
+! Plex - Issue #1
+@@||app.plex.tv
+@@||dashboard.plex.tv
+
+! Smart TV - See Issue #2
+@@||ngfts.lge.com
+@@||mhc-ajax-eu.myhomescreen.tv
+@@||mhc-ajax-eu-s2.myhomescreen.tv
+@@||mhc-ajax-us.myhomescreen.tv
+@@||mhc-eu.myhomescreen.tv
+@@||mhc-us.myhomescreen.tv
+@@||mhc-xpana-eu.myhomescreen.tv
+@@||mhc-xpana-eu-s2.myhomescreen.tv
+@@||mhc-xpana-us.myhomescreen.tv
+@@||vcs.vdspf.com
+@@||applicast.ga.sony.net
+@@||update.biv.sony.tv
+@@||deviceportal.nettvservices.com
+@@||epg.corio.com
+@@||ecdinterface.philips.com
+@@||auth.samsungosp.com
+@@||cdn.samsungcloudsolution.com 
+@@||infolink.pavv.co.kr
+@@||lcprd1.samsungcloudsolution.net
+@@||otnprd10.samsungcloudsolution.net
+@@||otnprd11.samsungcloudsolution.net
+@@||otnprd8.samsungcloudsolution.net
+@@||otnprd9.samsungcloudsolution.net
+@@||samsungosp.com
+@@||samsungotn.net
+@@||time.samsungcloudsolution.com
+@@||osb-ussvc.samsungqbe.com
+@@||otn.samsungcloudcdn.com
+@@||ns11.whois.co.kr
+@@||api.vizio.com
+@@||images.vizio.com
+@@||announcements.vizio.com
+@@||hbbtv.prosieben.de
+@@||hbbtv.redbutton.de
+@@||hbbtv.zdf.de
+@@||apicache.vudu.com
+@@||tv.deezer.com
+@@||api.us.hismarttv.com
+@@||api.euro.hismarttv.com
+
+! Canon
+@@||gdlp01.c-wss.com
+
+! Dropbox
+@@||dl.dropbox.com
+@@||dl.dropboxusercontent.com
+
+! Git
+! soon
+
+! Windows / Microsoft
+@@||www.msftncsi.com
+@@||officeclient.microsoft.com
+@@||dl.delivery.mp.microsoft.com
+@@||geo-prod.do.dsp.mp.microsoft.com
+@@||displaycatalog.mp.microsoft.com 
+@@||sls.update.microsoft.com.akadns.net
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+@@||clientconfig.passport.net 
+@@||v10.events.data.microsoft.com
+@@||v20.events.data.microsoft.com
+@@||client-s.gateway.messenger.live.com
+@@||arc.msn.com
+
+! Spotify + Apple Music
+@@||spclient.wg.spotify.com
+@@||apresolve.spotify.com
+@@||itunes.apple.com
+@@||s.mzstatic.com
+@@||api-tv.spotify.com
+
+! Gaming Consoles / Gaming
+! GTA Online
+@@||prod.telemetry.ros.rockstargames.com
+! Required to make purchaes and to log in.
+@@||tracking.epicgames.com
+! Required for the PS5
+@@||telemetry-console.api.playstation.com
+! Nvidia / Geforce
+@@||events.gfe.nvidia.com
+@@||gfwsl.geforce.com
+@@||ota-downloads.nvidia.com
+
+! Weather
+@@||images.twnmm.com
+
+! Captcha
+@@||api-verify.recaptcha.net
+
+! Bing
+! Bing Maps / Microsoft Flight Simulator
+@@||dev.virtualearth.net
+@@||ecn.dev.virtualearth.net
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net
+@@||t0.ssl.ak.tiles.virtualearth.net
+! Other
