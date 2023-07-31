@@ -1,6 +1,6 @@
 <div align="center">  
  <a href="#" > 
-  <img width="600" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Logo.png" alt="logo" />
+  <img width="600" src="./Logos/Logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
@@ -77,14 +77,14 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 ## <ins>Download</ins> 
 | TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
 | --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
-| **Silver**  |  Very lightweight Protection  | 3M  | 143.222  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-silver.txt)  |
-| **Gold**  |  Mid Range Protection  | 10M  | 494.664  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt)  |
-| **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
-| **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-diamond.txt)  |
-| **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Antimatter.svg" alt="logo" />](#download)  |
-| **Domains**  |  Domain Version of the Platinum Filter List  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-domains.txt)  |
-| **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyGate-whitelist.txt)  |
+| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-bronze.txt)  |
+| **Silver**  |  Very lightweight Protection  | 3M  | 143.222  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-silver.txt)  |
+| **Gold**  |  Mid Range Protection  | 10M  | 494.664  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-gold.txt)  |
+| **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-platinum.txt)  |
+| **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-diamond.txt)  |
+| **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/master/Logos/Antimatter.svg" alt="logo" />](#download)  |
+| **Domains**  |  Domain Version of the Platinum Filter List  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
+| **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyGate-whitelist.txt)  |
  
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
@@ -148,7 +148,7 @@ https://blockads.fivefilters.org/
 ## <ins>Included Lists</ins>
 The List is gathered from many multiple sources, combined into one file, duplicates removed and cleaned up.
 
-[**Click here**](https://github.com/Lennolium/PrivacyShield/blob/main/IncludedLists.md) for a complete Overview.
+[**Click here**](https://github.com/Lennolium/PrivacyShield/blob/master/IncludedLists.md) for a complete Overview.
   
 &nbsp;
   
