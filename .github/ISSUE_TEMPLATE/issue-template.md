@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <div align="center">  
-  <img width="247" height="100" src="https://github.com/Lennolium/PrivacyShield/blob/main/Logos/Logo.png?raw=true" alt="logo" />
+  <img width="247" height="100" src="https://github.com/Lennolium/PrivacyShield/blob/master/Logos/Logo.png?raw=true" alt="logo" />
 </div>
 
 <h2 align="center">Issue Submit Form</h2>
