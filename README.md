@@ -2,9 +2,9 @@
 
 <div align="center">  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/banner_dark.png" width="600vw">
-  <source media="(prefers-color-scheme: light)" srcset="./img/banner_light.png" width="600vw">
-  <img alt="PrivacyShield Banner" src="./img/banner_light.png" width="600vw">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/banner_dark.png" width="700vw">
+  <source media="(prefers-color-scheme: light)" srcset="./img/banner_light.png" width="700vw">
+  <img alt="PrivacyShield Banner" src="./img/banner_light.png" width="700vw">
 </picture>
 </div>
 <br>
