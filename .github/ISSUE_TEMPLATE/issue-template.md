@@ -11,9 +11,9 @@ assignees: ''
 
 <div align="center">  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/banner_dark.png" width="300vw">
-  <source media="(prefers-color-scheme: light)" srcset="./img/banner_light.png" width="300vw">
-  <img alt="PrivacyShield Banner" src="./img/banner_light.png" width="300vw">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" width="450vw">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" width="450vw">
+  <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" width="450vw">
 </picture>
 </div>
 <br>
