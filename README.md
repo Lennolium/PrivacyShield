@@ -1,9 +1,15 @@
+<!--- Logo -->
+
 <div align="center">  
- <a href="#" > 
-  <img width="600" src="./Logos/Logo.png" alt="logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/banner_dark.png" width="600vw">
+  <source media="(prefers-color-scheme: light)" srcset="./img/banner_light.png" width="600vw">
+  <img alt="PrivacyShield Banner" src="./img/banner_light.png" width="600vw">
+</picture>
 </div>
-&nbsp;
-&nbsp;
+<br>
+
+<!--- Badges -->
 
 <div align="center"> 
   <a href="#" > 
@@ -16,7 +22,7 @@
     <img src="https://img.shields.io/github/commit-activity/m/Lennolium/PrivacyShield?label=Commit%20Activity" alt="commit activity" >
      <a/>
   <a href="https://github.com/Lennolium/PrivacyShield#download" > 
-    <img src="https://img.shields.io/badge/Version-1.1.0-brightgreen" alt="stable version" >
+    <img src="https://img.shields.io/badge/Version-2.0.0-brightgreen" alt="stable version" >
   <a/>   
      <br>
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
@@ -33,21 +39,28 @@
   <a/>
 </div>
 
+<!--- Title -->
+
 <div align="center">
-  <h1>Lennolium's Privacy Shield</h1> 
+  <h1></h1> 
 </div>
 
-</div>
+<!--- Description -->
+
+
+
 <div align="center">
 A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. Merged collection of lists from reputable sources.<br> A full overview of all used source list can be found under "Included Lists". Request additional domains or report false positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab. <br><br>
- 
- [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=flat-square&logo=paypal)](https://www.paypal.me/smogg)
+
+[![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=flat-square&logo=paypal)](https://www.paypal.me/smogg)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
 </div>
 <div align="center">
-  <h3>
-    </div>       
-&nbsp;
+  <h3></h3>  
+    </div>     
+
+
+<!--- Table of contents -->
     
 ## <ins>Table of contents</ins>
 - [Features](#features)
@@ -82,7 +95,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Gold**  |  Mid Range Protection  | 10M  | 494.664  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-gold.txt)  |
 | **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-platinum.txt)  |
 | **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-diamond.txt)  |
-| **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/master/Logos/Antimatter.svg" alt="logo" />](#download)  |
+| **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/antimatter.svg" alt="logo" />](#download)  |
 | **Domains**  |  Domain Version of the Platinum Filter List  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
 | **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyGate-whitelist.txt)  |
  
