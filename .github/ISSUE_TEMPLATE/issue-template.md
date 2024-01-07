@@ -7,9 +7,16 @@ assignees: ''
 
 ---
 
+<!--- Logo -->
+
 <div align="center">  
-  <img width="247" height="100" src="https://github.com/Lennolium/PrivacyShield/blob/master/Logos/Logo.png?raw=true" alt="logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/banner_dark.png" width="300vw">
+  <source media="(prefers-color-scheme: light)" srcset="./img/banner_light.png" width="300vw">
+  <img alt="PrivacyShield Banner" src="./img/banner_light.png" width="300vw">
+</picture>
 </div>
+<br>
 
 <h2 align="center">Issue Submit Form</h2>
 <div align="center">
