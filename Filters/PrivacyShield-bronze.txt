@@ -38269,32 +38269,11 @@ Banner468x60
 ||zeus.developershed.com^
 ||zeusclicks.com^
 ||zumobi.com^
-!
-! Source name: NextDNS CNAME Cloaking
-!
-
-
-
-
 ||sc.adobedc.net^
-
 ||dnsdelegation.io^
-
-
 ||wizaly.com^
-
-
-
-
 ||webtrekk.net^
-
 ||oghub.io^
-
-
-
-!
-! Source name: Wally3k Personal
-!
 ||evolveplatform.net^
 ||a1.adstore.jp^
 ||ad.fyber.angsrvr.com^
@@ -38445,12 +38424,6 @@ uaswitcher.org
 ||www.styledrops.hu^
 ||www.webkamery-krkonose.cz^
 ||galikos.com^
-
-!
-! Source name: Peter Lowe's List Yoyo
-!
-
-
 ||3337723.com^
 ||5mcwl.pw^
 ||6sc.co^
@@ -38976,15 +38949,6 @@ uaswitcher.org
 ||zealousfield.com^
 ||zion-telemetry.api.cnn.io^
 ||zlp6s.pw^
-
-!
-! Source name: Lennolium Personal
-!
-
-
-!
-! Source name: AnudeepND Adservers
-!
 ||006.free-counters.co.uk^
 ||007.free-counters.co.uk^
 ||008.free-counters.co.uk^
@@ -41224,10 +41188,6 @@ uaswitcher.org
 ||salpato.numo.in^
 ||messiah.id^
 ||telemetrydeck.com^
-
-!
-! Source name: SomeOneWhoCares Hosts
-!
 ||localhost.localdomain^
 ||goatse.cx^
 ||goatse.ca^
