@@ -118,11 +118,11 @@ For best performance I **recommend adding the white list** also to your AdGuard 
 
 **Which Variant should I use?** 
 
->**Standard variant:** AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini
+- **Standard variant:** AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini
 
->**Domains-only variant:** PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG
+- **Domains-only variant:** PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG
 
->**Hosts variant:** AdAway, uMatrix, DNS66, GasMask, NetGuard
+- **Hosts variant:** AdAway, uMatrix, DNS66, GasMask, NetGuard
 
 >For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
 
