@@ -68,7 +68,9 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
   - [AdGuard Home](#adguard-home)
   - [AdGuard iOS](#adguard-ios)
   - [AdGuard Android](#adguard-android)
-- [Check Performance](#check-performance)
+  - [Pi-Hole](#pi-hole)
+  - [AdAway](#adaway)
+- [Test Performance](#test-performance)
 - [Included Lists](#included-lists)
 - [Contributors](#contributors)
 - [Development](#development)
@@ -114,7 +116,14 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 Follow the instructions for your specific platform below to successfully implement the list.
 For best performance I **recommend adding the white list** also to your AdGuard positive filters/whitelists. This ensures less false-positives, especially when using PrivacyShield in combination with other block lists.
 
->For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)  
+>**Which Variant should I use?** 
+>AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini → Standard variant
+>PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG → Domains-only variant
+>AdAway, uMatrix, DNS66, GasMask, NetGuard → Hosts variant
+
+>For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
+
+&nbsp; 
   
 ### AdGuard Home
 
@@ -158,12 +167,40 @@ For best performance I **recommend adding the white list** also to your AdGuard 
 8. Tap IMPORT
 9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
 10. Tap ADD
+  
+  
+### Pi-Hole
+
+1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
+2. Settings
+3. DNS Filtering
+4. DNS requests blocking
+5. PLUS NEW DNS FILTER
+6. DNS Protection
+7. Where it says: "URL or Path" paste the copied Link from Step 1.
+8. Tap IMPORT
+9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
+10. Tap ADD
+  
+  
+### AdAway
+
+1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
+2. Settings
+3. DNS Filtering
+4. DNS requests blocking
+5. PLUS NEW DNS FILTER
+6. DNS Protection
+7. Where it says: "URL or Path" paste the copied Link from Step 1.
+8. Tap IMPORT
+9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
+10. Tap ADD
 
 &nbsp; 
  
-<!--- Check -->
+<!--- Test Performance -->
 
-## Check Performance
+## Test Performance
 
 You can test if your ad blocker is working properly or not by running a check on these websites. A blocking rate starting of 70% is a good start:
        
