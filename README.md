@@ -69,7 +69,6 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
   - [AdGuard iOS](#adguard-ios)
   - [AdGuard Android](#adguard-android)
   - [Pi-Hole](#pi-hole)
-  - [AdAway](#adaway)
 - [Test Performance](#test-performance)
 - [Included Lists](#included-lists)
 - [Contributors](#contributors)
@@ -116,88 +115,71 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 Follow the instructions for your specific platform below to successfully implement the list.
 For best performance I **recommend adding the white list** also to your AdGuard positive filters/whitelists. This ensures less false-positives, especially when using PrivacyShield in combination with other block lists.
 
-**Which Variant should I use?** 
+>For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
+
+**Which variant should I use?** 
 
 - **Standard variant:** AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini
 
-- **Domains-only variant:** PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG
+- **Domains-only variant:** PiHole (FTL < v5.22), Blocky, OpenSnitch, PersonalBlocklist, pfBlockerNG
 
 - **Hosts variant:** AdAway, uMatrix, DNS66, GasMask, NetGuard
-
->For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
 
 &nbsp; 
   
 ### AdGuard Home
 
 1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
-2. Filters
-3. DNS Blocklists
-4. Click "Add blocklist"
-5. Click "Add a custom list"
-6. Where it says: "Enter name" enter: "PrivacyShield" (without quotes)
-7. Where it says: "Enter a URL or an absolute path of the list" paste the copied Link from Step 1.
-8. Click "Save"
+2. `Filters`
+3. `DNS Blocklists`
+4. Click `Add blocklist`
+5. Click `Add a custom list`
+6. Where it says: "Enter name" enter: "PrivacyShield" (without quotes).
+7. Where it says: "Enter a URL or an absolute path of the list" paste the copied link from Step 1.
+8. Click `Save`
   
   
 ### AdGuard iOS
 
 1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
-2. Settings ("Cog"-icon in the bottom)
-3. General
+2. `Settings` ("Cog"-icon in the bottom)
+3. `General`
 4. Enable "Advanced mode"
-5. Go back to settings ("Cog"-icon in the bottom)
-6. DNS Protection
+5. Go back to `Settings` ("Cog"-icon in the bottom).`
+6. `DNS Protection`
 7. Enable (if not already enabled)
 8. Toggle OFF to ON
-9. Tap OK then Allow to install a local VPN profile
-10. DNS Filtering
-11. DNS Filters
-12. Add a filter
-13. Where it says: "Enter a filter URL" paste the copied Link from Step 1.
-14. Tap ADD
+9. Tap `OK` then `Allow` to install a local VPN profile.`
+10. `DNS Filtering`
+11. `DNS Filters`
+12. `Add a filter`
+13. Where it says: "Enter a filter URL" paste the copied link from Step 1.
+14. Click `ADD`
   
   
 ### AdGuard Android
 
 1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
-2. Settings
-3. DNS Filtering
-4. DNS requests blocking
-5. PLUS NEW DNS FILTER
-6. DNS Protection
+2. `Settings`
+3. `DNS Filtering`
+4. `DNS requests blocking`
+5. Plus sign: `NEW DNS FILTER`
+6. `DNS Protection`
 7. Where it says: "URL or Path" paste the copied Link from Step 1.
-8. Tap IMPORT
+8. Click `IMPORT`
 9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
-10. Tap ADD
+10. Click `ADD`
   
   
 ### Pi-Hole
 
 1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
-2. Settings
-3. DNS Filtering
-4. DNS requests blocking
-5. PLUS NEW DNS FILTER
-6. DNS Protection
-7. Where it says: "URL or Path" paste the copied Link from Step 1.
-8. Tap IMPORT
-9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
-10. Tap ADD
-  
-  
-### AdAway
-
-1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
-2. Settings
-3. DNS Filtering
-4. DNS requests blocking
-5. PLUS NEW DNS FILTER
-6. DNS Protection
-7. Where it says: "URL or Path" paste the copied Link from Step 1.
-8. Tap IMPORT
-9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
-10. Tap ADD
+2. Log-in to your pi-hole WebUI.
+3. `Group Management`
+4. `Adlists`
+5. Where it says: "Address" paste the copied link from Step 1.
+6. Where it says "Comment" enter "PrivacyShield" (without quotes).
+7. Click `ADD`
 
 &nbsp; 
  
