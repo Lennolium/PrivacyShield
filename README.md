@@ -116,10 +116,13 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 Follow the instructions for your specific platform below to successfully implement the list.
 For best performance I **recommend adding the white list** also to your AdGuard positive filters/whitelists. This ensures less false-positives, especially when using PrivacyShield in combination with other block lists.
 
->**Which Variant should I use?** 
->AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini → Standard variant
->PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG → Domains-only variant
->AdAway, uMatrix, DNS66, GasMask, NetGuard → Hosts variant
+**Which Variant should I use?** 
+
+>**Standard variant:** AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, PiHole (FTL >= v5.22), Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini
+
+>**Domains-only variant:** PiHole (FTL < v5.22), Blocky, Diversion (< v5), OpenSnitch, PersonalBlocklist, pfBlockerNG
+
+>**Hosts variant:** AdAway, uMatrix, DNS66, GasMask, NetGuard
 
 >For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
 
