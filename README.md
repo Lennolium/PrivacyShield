@@ -100,10 +100,11 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Bronze/Mobile**  |  iOS/Android Version to use with app | 880K  | 44.811  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-bronze.txt)  |
 | **Silver**  |  Very lightweight Protection  | 3M  | 160.363  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-silver.txt)  |
 | **Gold**  |  Mid Range Protection  | 10M  | 493.554  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-gold.txt)  |
-| **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-platinum.txt)  |
+| **Platinum**  |  Balanced Protection  | 39M  | 1.779.651  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-platinum.txt)  |
 | **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-diamond.txt)  |
 | **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/antimatter.svg" alt="logo" />](#download)  |
-| **Domains**  |  Domains-only variant of the Platinum filter list  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
+| **Domains**  |  Domains-only variant of the Platinum filter list  | 34M  | 1.779.651  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
+| **Hosts**  |  Hosts variant of the Platinum filter list  | 48M  | 1.779.651  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-hosts.txt)  |
 | **White List**  |  White list applied to all filter lists  | 16M  | 645.414  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyGate-whitelist.txt)  |
 
 &nbsp; 
@@ -165,7 +166,7 @@ For best performance I **recommend adding the white list** also to your AdGuard 
 4. `DNS requests blocking`
 5. Plus sign: `NEW DNS FILTER`
 6. `DNS Protection`
-7. Where it says: "URL or Path" paste the copied Link from Step 1.
+7. Where it says "URL or Path" paste the copied Link from Step 1.
 8. Click `IMPORT`
 9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
 10. Click `ADD`
@@ -177,7 +178,7 @@ For best performance I **recommend adding the white list** also to your AdGuard 
 2. Log-in to your pi-hole WebUI.
 3. `Group Management`
 4. `Adlists`
-5. Where it says: "Address" paste the copied link from Step 1.
+5. Where it says "Address" paste the copied link from Step 1.
 6. Where it says "Comment" enter "PrivacyShield" (without quotes).
 7. Click `ADD`
 
