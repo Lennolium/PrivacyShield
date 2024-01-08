@@ -64,12 +64,12 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 - [Features](#features)
 - [Download](#download)
-- [Usage](#usage)
+- [Installation](#installation)
   - [AdGuard Home](#adguard-home)
   - [AdGuard iOS](#adguard-ios)
   - [AdGuard Android](#adguard-android)
-- [Check](#check)
-- [Included Lists](#included-lists) Contributors
+- [Check Performance](#check-performance)
+- [Included Lists](#included-lists)
 - [Contributors](#contributors)
 - [Development](#development)
 - [Credits](#credits)
@@ -102,22 +102,23 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-platinum.txt)  |
 | **Diamond**  |  Ultra High Protection (may breaks some sites)  | 52M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-diamond.txt)  |
 | **Antimatter**  |  Out of World Protection (may breaks sites)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/antimatter.svg" alt="logo" />](#download)  |
-| **Domains**  |  Domains-only Version of the Platinum Filter List  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
-| **White List**  |  White List applied to all Filter Lists  | 16M  | 645.414  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyGate-whitelist.txt)  |
+| **Domains**  |  Domains-only variant of the Platinum filter list  | 36M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyShield-domains.txt)  |
+| **White List**  |  White list applied to all filter lists  | 16M  | 645.414  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/Filters/PrivacyGate-whitelist.txt)  |
 
 &nbsp; 
  
-<!--- Usage -->
+<!--- Installation -->
 
-## Usage
+## Installation
 
 Follow the instructions for your specific platform below to successfully implement the list.
-For best performance I **recommend adding the white list also** to your AdGuard positive filters/whitelists. This ensures less false-positives, especially when using PrivacyShield in combination with other block lists.
-  
+For best performance I **recommend adding the white list** also to your AdGuard positive filters/whitelists. This ensures less false-positives, especially when using PrivacyShield in combination with other block lists.
+
+>For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)  
   
 ### AdGuard Home
 
-1. Copy the link of the block list (DOWNLOAD LINK/raw) from the #download section.
+1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
 2. Filters
 3. DNS Blocklists
 4. Click "Add blocklist"
@@ -129,7 +130,7 @@ For best performance I **recommend adding the white list also** to your AdGuard 
   
 ### AdGuard iOS
 
-1. Copy the link of the block list (DOWNLOAD LINK/raw) from the #download section.
+1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
 2. Settings ("Cog"-icon in the bottom)
 3. General
 4. Enable "Advanced mode"
@@ -147,7 +148,7 @@ For best performance I **recommend adding the white list also** to your AdGuard 
   
 ### AdGuard Android
 
-1. Copy the link of the block list (DOWNLOAD LINK/raw) from the #download section.
+1. Copy the link of the block list (DOWNLOAD LINK/raw) from the [Download](#download) section.
 2. Settings
 3. DNS Filtering
 4. DNS requests blocking
@@ -157,14 +158,12 @@ For best performance I **recommend adding the white list also** to your AdGuard 
 8. Tap IMPORT
 9. Where it says "Enter DNS Filter Name" enter "PrivacyShield" (without quotes)
 10. Tap ADD
-  
-For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)  
 
 &nbsp; 
  
 <!--- Check -->
 
-## Check
+## Check Performance
 
 You can test if your ad blocker is working properly or not by running a check on these websites. A blocking rate starting of 70% is a good start:
        
@@ -217,12 +216,7 @@ Thank you so much for giving feedback, implementing features and improving the c
 
 ## Credits
 
-Full credit for the actual blocking ability goes to original list creators and maintainers.
-
-Thanks so much for your tireless work! 
-  
-
-Please notify me if I have violated a license condition.
+Full credit for the actual blocking ability goes to original list creators and maintainers. Thanks so much for your tireless work! Please notify me if I have violated a license condition.
      
 &nbsp; 
  
