@@ -118,6 +118,8 @@ For best performance I **recommend adding the white list** also to your AdGuard 
 
 >For further assistance, you can [`Email me!`](mailto:info@lennolium.dev?subject=Question%20regarding%20PrivacyShield)
 
+&nbsp;
+
 **Which variant should I use?** 
 
 - **Standard variant:** AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini
