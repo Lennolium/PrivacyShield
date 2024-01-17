@@ -14,29 +14,29 @@
 <div align="center"> 
   <a href="#" > 
     <img src="https://img.shields.io/github/repo-size/Lennolium/PrivacyShield?label=Repo%20Size&color=orange" alt="repo size" >
-  <a/>  
+  </a>  
    <a href="https://github.com/Lennolium/PrivacyShield/branches" > 
     <img src="https://img.shields.io/github/last-commit/Lennolium/PrivacyShield?label=Last%20Updated&color=green" alt="last updated" >
-    <a/>
+    </a>
    <a href="https://github.com/Lennolium/PrivacyShield/commits/master" > 
     <img src="https://img.shields.io/github/commit-activity/m/Lennolium/PrivacyShield?label=Commit%20Activity" alt="commit activity" >
-     <a/>
+     </a>
   <a href="https://github.com/Lennolium/PrivacyShield#download" > 
     <img src="https://img.shields.io/badge/Version-2.0.0-brightgreen" alt="stable version" >
-  <a/>   
+  </a>   
      <br>
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
     <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
-  <a/>
+  </a>
   <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
     <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?label=Closed%20Issues&color=inactive" alt="closed issues" >
-  <a/>  
+  </a>  
      <a href="https://tinyurl.com/opinionoffriends" > 
     <img src="https://img.shields.io/badge/Rating-★★★★★-yellow" alt="rating" >
-  <a/>
+  </a>
   <a href="https://github.com/Lennolium/PrivacyShield/blob/master/LICENSE" > 
     <img src="https://img.shields.io/github/license/Lennolium/PrivacyShield?label=License&color=blueviolet" alt="License" >
-  <a/>
+  </a>
 </div>
 
 <!--- Title Line -->
@@ -48,7 +48,7 @@
 <!--- Description -->
 
 <div align="center">
-A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. Merged collection of lists from reputable sources. A full overview of all used source list can be found under "Included Lists". Request additional domains or report false-positives via <a href="https://github.com/Lennolium/PrivacyShield/issues">Issues</a> tab. <br><br>
+A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam. Merged collection of lists from reputable sources. A full overview of all used source list can be found under "Included Lists". Request additional domains or report false-positives via <a href="https://github.com/Lennolium/PrivacyShield/issues/new/choose">Issues</a> tab. <br><br>
 
 [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=flat-square&logo=paypal)](https://www.paypal.me/smogg)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
