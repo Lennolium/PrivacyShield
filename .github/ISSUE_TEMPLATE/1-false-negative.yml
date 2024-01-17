@@ -27,6 +27,7 @@ body:
           Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
         </div>
+        <br>
 
   - type: input
     id: contact
