@@ -1,4 +1,4 @@
-name: "\U00026A1 Request Website Block"
+name: "\U000026A1 Request Website Block"
 description: "Request inclusion of a website to the block lists"
 title: "Add Domain: example.org"
 labels: ["new domain",]
