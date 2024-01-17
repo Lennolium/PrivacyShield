@@ -33,10 +33,14 @@ body:
     id: category
     attributes:
       label: Category
-      description: What version of our software are you running?
+      description: What kind of issue are you reporting?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Good website blocked
+        - Website functionality broken
+        - Image(s) not showing
+        - Mobile app blocked
+        - Other
+      default: 0
     validations:
       required: true
 
