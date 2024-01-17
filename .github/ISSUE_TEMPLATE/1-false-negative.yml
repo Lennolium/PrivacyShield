@@ -24,7 +24,8 @@ body:
         
         <h2 align="center">False-Positive Submit Form</h2>
         <div align="center">
-          Provide the following info properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
+          Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
+          If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
         </div>
 
   - type: input
