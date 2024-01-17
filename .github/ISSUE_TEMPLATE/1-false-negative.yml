@@ -26,7 +26,7 @@ body:
           Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
           Also make sure to check the <a href="https://github.com/Lennolium/PrivacyShield/issues">issue tab</a> for similar issues before submitting this form to avoid duplicates.
-        
+          <br>
           <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
             <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
           </a>
