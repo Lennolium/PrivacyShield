@@ -29,6 +29,17 @@ body:
         </div>
         <br>
 
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What version of our software are you running?
+      options:
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+    validations:
+      required: true
+
   - type: input
     id: contact
     attributes:
@@ -77,7 +88,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Lennolium/PrivacyShield/blob/master/.github/CODE_OF_CONDUCT.md)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
