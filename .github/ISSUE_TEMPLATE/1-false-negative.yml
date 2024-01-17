@@ -25,14 +25,16 @@ body:
         <div align="center">
           Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
-          Also make sure to check the <a href="https://github.com/Lennolium/PrivacyShield/issues">issue tab</a> for similar issues before submitting this form to avoid duplicates.
+          Also make sure to check the issues tab for similar issues before submitting this form to avoid duplicates.
           <br>
           <br>
+        
           <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
-            <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
+            <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?style=flat-square&label=Open%20Issues&color=deepskyblue" alt="open issues" >
           </a>
+        
           <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
-            <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?label=Closed%20Issues&color=inactive" alt="closed issues" >
+            <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?style=flat-square&label=Closed%20Issues&color=aliceblue" alt="closed issues" >
           </a>  
         
         </div>
