@@ -1,4 +1,4 @@
-name: ""\U0001F41B Report a False-Positive"
+name: "\U0001F41B Report a False-Positive"
 description: "File a bug report"
 title: "False-Positive: example.org"
 labels: ["false positive",]
