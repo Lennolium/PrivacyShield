@@ -1,10 +1,9 @@
 ---
-name: Issue template
-about: Please use this form to outline your issue or request.
-title: ''
-labels: ''
-assignees: ''
-
+name: "\U0001F41B Report a False-Positive"
+about: "You found a not-working or wrongly blocked website \U0001F914"
+title: "False-Positive: example.org"
+labels: ""
+assignees: "Lennolium"
 ---
 
 <!--- Logo -->
