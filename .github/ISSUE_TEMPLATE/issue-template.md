@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41B Report a False-Positive"
+name: "\U0001F41B Report a False-Positive OLD"
 about: "You found a not-working or wrongly blocked website \U0001F914"
 title: "False-Positive: example.org"
 labels: ""
