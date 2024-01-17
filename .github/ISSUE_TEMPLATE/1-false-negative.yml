@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         <!--- Logo and Header -->
-        <div>  
+        <div align="center">  
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
         width="450vw">
@@ -21,8 +21,8 @@ body:
         </picture>
         </div>
         
-        <h2>False-Positive Submit Form</h2>
-        <div>
+        <h2 align="center">False-Positive Submit Form</h2>
+        <div align="center">
           Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
           Also make sure to check the <a href="https://github.com/Lennolium/PrivacyShield/issues">issue tab</a> for similar issues before submitting this form to avoid duplicates.
@@ -70,7 +70,7 @@ body:
     attributes:
       label: Description
       description: Also tell us briefly about the problem or website. You can also add screenshots if needed.
-      placeholder: What is the issue with the website?
+      placeholder: What is the issue with the website? Which platform are you using?
 
   - type: markdown
     attributes:
@@ -81,6 +81,7 @@ body:
     id: list
     attributes:
       label: Which List(s) are you using?
+      description: You can select multiple lists from the list below.
       multiple: true
       options:
         - Bronze/Mobile
@@ -104,7 +105,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version are you running? You can find it in the list's header.
+      description: What version are you running? You can find it in the header of the list file.
       options:
         - Latest (2.0.0)
         - 1.1.1
@@ -135,7 +136,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
+      label: Agreements
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Lennolium/PrivacyShield/blob/master/.github/CODE_OF_CONDUCT.md)
       options:
         - label: I agree to follow this project's Code of Conduct.
