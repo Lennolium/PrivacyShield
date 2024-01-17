@@ -20,7 +20,6 @@ body:
         width="450vw">
         </picture>
         </div>
-        <br>
         
         <h2 align="center">False-Positive Submit Form</h2>
         <div align="center">
@@ -28,6 +27,8 @@ body:
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
         </div>
         <br>
+        <br>
+
 
   - type: dropdown
     id: category
@@ -44,6 +45,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: input
     id: domain
     attributes:
@@ -59,9 +65,6 @@ body:
       label: Description
       description: Also tell us briefly about the problem or website. You can also add screenshots if needed.
       placeholder: What did you expect to happen?
-      value: "A bug happened!"
-    validations:
-      required: true
 
   - type: dropdown
     id: list
@@ -107,7 +110,7 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: If you want to be contacted outside of GitHub, please provide your email address.
+      description: ONLY if you want to be contacted outside of GitHub, please provide your email address.
       placeholder: email@example.com
     validations:
       required: false
