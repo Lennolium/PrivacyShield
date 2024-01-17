@@ -59,12 +59,22 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: textarea
     id: description
     attributes:
       label: Description
       description: Also tell us briefly about the problem or website. You can also add screenshots if needed.
       placeholder: What did you expect to happen?
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
 
   - type: dropdown
     id: list
@@ -84,6 +94,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: dropdown
     id: version
     attributes:
@@ -99,12 +114,22 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: textarea
     id: other-info
     attributes:
       label: Further Information
       description: Please paste any relevant log output or any other blocked domains here.
       render: shell
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
 
   - type: input
     id: contact
