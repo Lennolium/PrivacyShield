@@ -47,11 +47,11 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Domain
+      description: What is the domain/url of the website you are reporting?
+      placeholder: example.org
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -88,6 +88,16 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: If you want to be contacted outside of GitHub, please provide your email address.
+      placeholder: email@example.com
+    validations:
+      required: false
+
   - type: checkboxes
     id: terms
     attributes:
