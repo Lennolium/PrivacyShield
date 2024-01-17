@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+        ![The San Juan Mountains are beautiful!](https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png)
   - type: input
     id: contact
     attributes:
