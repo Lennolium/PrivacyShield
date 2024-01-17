@@ -12,12 +12,12 @@ body:
         <div align="center">  
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
-        width="450vw">
+        width="500vw">
           <source media="(prefers-color-scheme: light)" 
         srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
-        width="450vw">
+        width="500vw">
           <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
-        width="450vw">
+        width="500vw">
         </picture>
         </div>
         
@@ -26,6 +26,14 @@ body:
           Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
           Also make sure to check the <a href="https://github.com/Lennolium/PrivacyShield/issues">issue tab</a> for similar issues before submitting this form to avoid duplicates.
+        
+          <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
+            <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
+          </a>
+          <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
+            <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?label=Closed%20Issues&color=inactive" alt="closed issues" >
+          </a>  
+        
         </div>
         <br>
         <br>
@@ -37,7 +45,7 @@ body:
       label: Category
       description: What kind of issue are you reporting?
       options:
-        - Good website blocked
+        - Website blocked
         - Website's functionality broken
         - Image(s) not showing
         - Mobile app blocked
@@ -69,7 +77,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Also tell us briefly about the problem or website. You can also add screenshots if needed.
+      description: Also tell us briefly about the issue with the website. You can also attach screenshots and files here.
       placeholder: What is the issue with the website? Which platform are you using?
 
   - type: markdown
@@ -81,7 +89,7 @@ body:
     id: list
     attributes:
       label: Which List(s) are you using?
-      description: You can select multiple lists from the list below.
+      description: You can select multiple lists from the dropdown below.
       multiple: true
       options:
         - Bronze/Mobile
