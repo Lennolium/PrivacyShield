@@ -45,7 +45,7 @@ body:
       required: true
 
   - type: input
-    id: contact
+    id: domain
     attributes:
       label: Domain
       description: What is the domain/url of the website you are reporting?
