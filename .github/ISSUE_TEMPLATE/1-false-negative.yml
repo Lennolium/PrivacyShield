@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <!--- Logo -->
+        <!--- Logo and Header -->
         <div align="center">  
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
@@ -21,6 +21,11 @@ body:
         </picture>
         </div>
         <br>
+        
+        <h2 align="center">Issue Submit Form</h2>
+        <div align="center">
+          Provide the following info properly, which will help me to resolve your issue quickly.
+        </div>
 
   - type: input
     id: contact
