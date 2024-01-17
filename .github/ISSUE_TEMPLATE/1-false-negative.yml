@@ -36,7 +36,7 @@ body:
       description: What kind of issue are you reporting?
       options:
         - Good website blocked
-        - Website functionality broken
+        - Website's functionality broken
         - Image(s) not showing
         - Mobile app blocked
         - Other
@@ -48,45 +48,59 @@ body:
     id: domain
     attributes:
       label: Domain
-      description: What is the domain/url of the website you are reporting?
+      description: What is the domain/url of the website?
       placeholder: example.org
     validations:
       required: true
+
   - type: textarea
-    id: what-happened
+    id: description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      label: Description
+      description: Also tell us briefly about the problem or website. You can also add screenshots if needed.
+      placeholder: What did you expect to happen?
       value: "A bug happened!"
     validations:
       required: true
+
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which List(s) are you using?
+      multiple: true
+      options:
+        - Bronze/Mobile
+        - Silver
+        - Gold
+        - Platinum
+        - Diamond
+        - Antimatter
+        - Domains-only
+        - Hosts
+        - Whitelist
+    validations:
+      required: true
+
   - type: dropdown
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: What version are you running? You can find it in the list's header.
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Latest (2.0.0)
+        - 1.1.1
+        - 1.1.0
+        - 1.0.0
+        - Legacy
       default: 0
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+
   - type: textarea
-    id: logs
+    id: other-info
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Further Information
+      description: Please paste any relevant log output or any other blocked domains here.
       render: shell
 
   - type: input
@@ -104,5 +118,7 @@ body:
       label: Code of Conduct
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Lennolium/PrivacyShield/blob/master/.github/CODE_OF_CONDUCT.md)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
+        - label: I confirm that I have searched the issue tracker for similar issues and this is not a duplicate.
           required: true
