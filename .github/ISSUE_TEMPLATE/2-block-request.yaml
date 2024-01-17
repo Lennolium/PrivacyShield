@@ -10,6 +10,13 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
         ![The San Juan Mountains are beautiful!](https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png)
+        <div align="center">  
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" width="450vw">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" width="450vw">
+          <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" width="450vw">
+        </picture>
+        </div>
   - type: input
     id: contact
     attributes:
