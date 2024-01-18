@@ -74,7 +74,7 @@ body:
     id: os
     attributes:
       label: Operating System
-      description: "If applicable: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, ...)"
+      description: If applicable: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, ...)
       placeholder: Operating System name & version
 
   - type: markdown
@@ -86,7 +86,7 @@ body:
     id: adblocker
     attributes:
       label: AdBlocker
-      description: "If applicable: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, ...)"
+      description: If applicable: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, ...)
       placeholder: Application name & version
 
   - type: markdown
@@ -97,7 +97,7 @@ body:
   - type: dropdown
     id: list
     attributes:
-      label: "If applicable: Which List(s) are you using?"
+      label: If applicable: Which List(s) are you using?
       description: You can select multiple lists from the dropdown below.
       multiple: true
       options:
@@ -117,7 +117,19 @@ body:
       value: |
         <br>
 
-
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: If applicable: What version are you running? You can find it in the header of the list file.
+      options:
+        - Latest (2.0.0)
+        - 1.1.1
+        - 1.1.0
+        - 1.0.0
+        - Legacy
+        - None
+      default: 0
 
   - type: markdown
     attributes:
