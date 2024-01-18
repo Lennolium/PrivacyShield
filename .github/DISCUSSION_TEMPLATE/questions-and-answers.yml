@@ -110,7 +110,6 @@ body:
         - Domains-only
         - Hosts
         - Whitelist
-        - None
       default: 0
 
   - type: markdown
@@ -129,7 +128,6 @@ body:
         - 1.1.0
         - 1.0.0
         - Legacy
-        - None
       default: 0
 
   - type: markdown
