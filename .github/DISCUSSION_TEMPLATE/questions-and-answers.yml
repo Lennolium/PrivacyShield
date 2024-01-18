@@ -4,156 +4,145 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest in FastAPI! 🚀
+        <!--- Logo and Header -->
+        <div align="center">  
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
+        width="500vw">
+          <source media="(prefers-color-scheme: light)" 
+        srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
+        width="500vw">
+          <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
+        width="500vw">
+        </picture>
+        </div>
+        
+        <h2 align="center">Question Submit Form</h2>
+        <div align="center">
+          Provide the following information properly, which will help me to answer your question quickly. 
+          If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
+          Also make sure to check the the discussion forum for similar questions before submitting this form to avoid duplicates.
+          Also consider, that if you have a question about a specific website, you should use the [False-Positive Submit Form](https://github.com/Lennolium/PrivacyShield/issues/new?assignees=Lennolium&labels=false+positive&projects=&template=1-false-negative.yml&title=False-Positive%3A+example.org) instead.
+          For issues regarding the filter lists, please open a new issue in the [Issues tab](https://github.com/Lennolium/PrivacyShield/issues/new/choose). 
+          For all general questions, please use this form.
+          <br>
+          <br>
+        
+          <a href="https://github.com/Lennolium/PrivacyShield/discussions" > 
+            <img src="https://img.shields.io/github/discussions/Lennolium/PrivacyShield?style=flat-square&color=deepskyblue" alt="discussions" >
+          </a>
+        
+        </div>
+        <br>
+        <br>
 
-        Please follow these instructions, fill every question, and do every step. 🙏
 
-        I'm asking this because answering questions and solving problems in GitHub is what consumes most of the time.
-
-        I end up not being able to add new features, fix bugs, review pull requests, etc. as fast as I wish because I have to spend too much time handling questions.
-
-        All that, on top of all the incredible help provided by a bunch of community members, the [FastAPI Experts](https://fastapi.tiangolo.com/fastapi-people/#experts), that give a lot of their time to come here and help others.
-
-        That's a lot of work they are doing, but if more FastAPI users came to help others like them just a little bit more, it would be much less effort for them (and you and me 😅).
-
-        By asking questions in a structured way (following this) it will be much easier to help you.
-
-        And there's a high chance that you will find the solution along the way and you won't even have to submit it and wait for an answer. 😎
-
-        As there are too many questions, I'll have to discard and close the incomplete ones. That will allow me (and others) to focus on helping people like you that follow the whole process and help us help you. 🤓
-  - type: checkboxes
-    id: checks
+  - type: dropdown
+    id: category
     attributes:
-      label: First Check
-      description: Please confirm and check all the following options.
+      label: Category
+      description: About what do you have a question?
       options:
-        - label: I added a very descriptive title here.
-          required: true
-        - label: I used the GitHub search to find a similar question and didn't find it.
-          required: true
-        - label: I searched the FastAPI documentation, with the integrated search.
-          required: true
-        - label: I already searched in Google "How to X in FastAPI" and didn't find any information.
-          required: true
-        - label: I already read and followed all the tutorial in the docs and didn't find an answer.
-          required: true
-        - label: I already checked if it is not related to FastAPI but to [Pydantic](https://github.com/pydantic/pydantic).
-          required: true
-        - label: I already checked if it is not related to FastAPI but to [Swagger UI](https://github.com/swagger-api/swagger-ui).
-          required: true
-        - label: I already checked if it is not related to FastAPI but to [ReDoc](https://github.com/Redocly/redoc).
-          required: true
-  - type: checkboxes
-    id: help
-    attributes:
-      label: Commit to Help
-      description: |
-        After submitting this, I commit to one of:
-
-          * Read open questions until I find 2 where I can help someone and add a comment to help there.
-          * I already hit the "watch" button in this repository to receive notifications and I commit to help at least 2 people that ask questions in the future.
-          * Review one Pull Request by downloading the code and following [all the review process](https://fastapi.tiangolo.com/help-fastapi/#review-pull-requests).
-
-      options:
-        - label: I commit to help with one of those options 👆
-          required: true
-  - type: textarea
-    id: example
-    attributes:
-      label: Example Code
-      description: |
-        Please add a self-contained, [minimal, reproducible, example](https://stackoverflow.com/help/minimal-reproducible-example) with your use case.
-
-        If I (or someone) can copy it, run it, and see it right away, there's a much higher chance I (or someone) will be able to help you.
-
-      placeholder: |
-        from fastapi import FastAPI
-
-        app = FastAPI()
-
-
-        @app.get("/")
-        def read_root():
-            return {"Hello": "World"}
-      render: python
+        - Installation of PrivacyShield
+        - Features/Functionality
+        - Included Lists
+        - Future Plans
+        - Development/Contributing
+        - Other
+      default: 0
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: |
-        What is the problem, question, or error?
+      label: Question
+      description: Here you ask your specific question and provide detailed information. You can also attach screenshots and files here.
+      placeholder: I have a question ...
 
-        Write a short description telling me what you are doing, what you expect to happen, and what is currently happening.
-      placeholder: |
-        * Open the browser and call the endpoint `/`.
-        * It returns a JSON with `{"Hello": "World"}`.
-        * But I expected it to return `{"Hello": "Sara"}`.
-    validations:
-      required: true
-  - type: dropdown
-    id: os
+  - type: markdown
     attributes:
-      label: Operating System
-      description: What operating system are you on?
+      value: |
+        <br>
+
+  - type: input
+    id: domain
+    attributes:
+      label: AdBlocker
+      description: "If applicable: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, etc.)"
+      placeholder: Application name & version
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: dropdown
+    id: list
+    attributes:
+      label: "If applicable: Which List(s) are you using?"
+      description: You can select multiple lists from the dropdown below.
       multiple: true
       options:
-        - Linux
-        - Windows
-        - macOS
-        - Other
-    validations:
-      required: true
+        - Bronze/Mobile
+        - Silver
+        - Gold
+        - Platinum
+        - Diamond
+        - Antimatter
+        - Domains-only
+        - Hosts
+        - Whitelist
+        - None
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: "If applicable: What version are you running? You can find it in the header of the list file."
+      options:
+        - Latest (2.0.0)
+        - 1.1.1
+        - 1.1.0
+        - 1.0.0
+        - Legacy
+        - None
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
   - type: textarea
-    id: os-details
+    id: other-info
     attributes:
-      label: Operating System Details
-      description: You can add more details about your operating system here, in particular if you chose "Other".
-  - type: input
-    id: fastapi-version
+      label: Further Information
+      description: Feel free to add any further information maybe needed here.
+      render: shell
+
+  - type: markdown
     attributes:
-      label: FastAPI Version
-      description: |
-        What FastAPI version are you using?
+      value: |
+        <br>
 
-        You can find the FastAPI version with:
-
-        ```bash
-        python -c "import fastapi; print(fastapi.__version__)"
-        ```
-    validations:
-      required: true
-  - type: input
-    id: pydantic-version
+  - type: checkboxes
+    id: terms
     attributes:
-      label: Pydantic Version
-      description: |
-        What Pydantic version are you using?
-
-        You can find the Pydantic version with:
-
-        ```bash
-        python -c "import pydantic; print(pydantic.version.VERSION)"
-        ```
-    validations:
-      required: true
-  - type: input
-    id: python-version
-    attributes:
-      label: Python Version
-      description: |
-        What Python version are you using?
-
-        You can find the Python version with:
-
-        ```bash
-        python --version
-        ```
-    validations:
-      required: true
-  - type: textarea
-    id: context
-    attributes:
-      label: Additional Context
-      description: Add any additional context information or screenshots you think are useful.
+      label: Agreements
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Lennolium/PrivacyShield/blob/master/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
+        - label: I confirm that I have searched the issue and discussion tab for similar questions and this is not a duplicate.
+          required: true
