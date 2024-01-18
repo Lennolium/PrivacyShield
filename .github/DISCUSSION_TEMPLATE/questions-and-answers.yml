@@ -22,8 +22,8 @@ body:
           Provide the following information properly, which will help me to answer your question quickly. 
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
           Also make sure to check the the discussion forum for similar questions before submitting this form to avoid duplicates.
-          Also consider, that if you have a question about a specific website, you should use the [False-Positive Submit Form](https://github.com/Lennolium/PrivacyShield/issues/new?assignees=Lennolium&labels=false+positive&projects=&template=1-false-negative.yml&title=False-Positive%3A+example.org) instead.
-          For issues regarding the filter lists, please open a new issue in the [Issues tab](https://github.com/Lennolium/PrivacyShield/issues/new/choose). 
+          Also consider, that if you have a question about a specific website, you should use the <a href="https://github.com/Lennolium/PrivacyShield/issues/new?assignees=Lennolium&labels=false+positive&projects=&template=1-false-negative.yml&title=False-Positive%3A+example.org">False-Positive Submit Form</a> instead.
+          For issues regarding the filter lists, please open a new issue in the <a href="https://github.com/Lennolium/PrivacyShield/issues/new/choose">Issues tab</a>. 
           For all general questions, please use this form.
           <br>
           <br>
@@ -37,6 +37,57 @@ body:
         <br>
 
 
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: About what do you have a question?
+      options:
+        - Installation of PrivacyShield
+        - Features/Functionality
+        - Included Lists
+        - Future Plans
+        - Development/Contributing
+        - Other
+      default: 0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Here you ask your specific question and provide detailed information. You can also attach screenshots and files here.
+      placeholder: I have a question ...
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: textarea
+    id: other-info
+    attributes:
+      label: Further Information
+      description: Feel free to add any further information maybe needed here.
+      render: shell
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
 
   - type: checkboxes
     id: terms
