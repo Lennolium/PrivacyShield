@@ -1,5 +1,4 @@
 title: "Question: "
-description: "Ask the community or the maintainer for help"
 labels: ["question",]
 body:
   - type: markdown
