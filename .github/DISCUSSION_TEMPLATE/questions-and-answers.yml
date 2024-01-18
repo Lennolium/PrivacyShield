@@ -1,42 +1,6 @@
 title: "Question: "
 labels: ["question",]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        <!--- Logo and Header -->
-        <div align="center">  
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
-        width="500vw">
-          <source media="(prefers-color-scheme: light)" 
-        srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
-        width="500vw">
-          <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
-        width="500vw">
-        </picture>
-        </div>
-        
-        <h2 align="center">Question Submit Form</h2>
-        <div align="center">
-          Provide the following information properly, which will help me to answer your question quickly. 
-          If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
-          Also make sure to check the the discussion forum for similar questions before submitting this form to avoid duplicates.
-          Also consider, that if you have a question about a specific website, you should use the [False-Positive Submit Form](https://github.com/Lennolium/PrivacyShield/issues/new?assignees=Lennolium&labels=false+positive&projects=&template=1-false-negative.yml&title=False-Positive%3A+example.org) instead.
-          For issues regarding the filter lists, please open a new issue in the [Issues tab](https://github.com/Lennolium/PrivacyShield/issues/new/choose). 
-          For all general questions, please use this form.
-          <br>
-          <br>
-        
-          <a href="https://github.com/Lennolium/PrivacyShield/discussions" > 
-            <img src="https://img.shields.io/github/discussions/Lennolium/PrivacyShield?style=flat-square&color=deepskyblue" alt="discussions" >
-          </a>
-        
-        </div>
-        <br>
-        <br>
-
-
   - type: dropdown
     id: category
     attributes:
