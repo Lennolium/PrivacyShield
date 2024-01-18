@@ -63,6 +63,8 @@ body:
       label: Description
       description: Also tell us briefly about the issue and provide all necessary information. You can also attach screenshots and files here.
       placeholder: I'm facing an issue with ...
+    validations:
+      required: true
 
   - type: markdown
     attributes:

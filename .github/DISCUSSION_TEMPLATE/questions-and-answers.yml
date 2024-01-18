@@ -66,6 +66,8 @@ body:
       label: Question
       description: Here you ask your specific question and provide detailed information. You can also attach screenshots and files here.
       placeholder: I have a question ...
+    validations:
+      required: true
 
   - type: markdown
     attributes:

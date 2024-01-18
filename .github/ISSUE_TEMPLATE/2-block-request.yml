@@ -84,6 +84,8 @@ body:
       label: Description
       description: Also tell us briefly about the issue with the website. You can also attach screenshots and files here.
       placeholder: Why should we block this website? Which platform are you using?
+    validations:
+      required: true
 
   - type: markdown
     attributes:
