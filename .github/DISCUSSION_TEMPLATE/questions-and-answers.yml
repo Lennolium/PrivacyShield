@@ -74,7 +74,7 @@ body:
     id: os
     attributes:
       label: Operating System
-      description: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, ...)
+      description: "If applicable: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, ...)"
       placeholder: Operating System name and version
 
   - type: markdown
@@ -86,7 +86,7 @@ body:
     id: adblocker
     attributes:
       label: AdBlocker
-      description: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, ...)
+      description: "If applicable: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, ...)"
       placeholder: Application name and version
 
   - type: markdown
@@ -98,7 +98,7 @@ body:
     id: list
     attributes:
       label: Which List(s) are you using?
-      description: You can select multiple lists from the dropdown below.
+      description: "If applicable: You can select multiple lists from the dropdown below."
       multiple: true
       options:
         - Bronze/Mobile
@@ -110,6 +110,7 @@ body:
         - Domains-only
         - Hosts
         - Whitelist
+        - Other
       default: 0
 
   - type: markdown
@@ -121,7 +122,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version are you running? You can find it in the header of the list file.
+      description: "If applicable: What version are you running? You can find it in the header of the list file."
       options:
         - Latest (2.0.0)
         - 1.1.1
