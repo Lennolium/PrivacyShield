@@ -94,7 +94,43 @@ body:
       value: |
         <br>
 
-  
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which List(s) are you using?
+      description: You can select multiple lists from the dropdown below.
+      multiple: true
+      options:
+        - Bronze/Mobile
+        - Silver
+        - Gold
+        - Platinum
+        - Diamond
+        - Antimatter
+        - Domains-only
+        - Hosts
+        - Whitelist
+        - None
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version are you running? You can find it in the header of the list file.
+      options:
+        - Latest (2.0.0)
+        - 1.1.1
+        - 1.1.0
+        - 1.0.0
+        - Legacy
+        - None
+      default: 0
 
   - type: markdown
     attributes:
