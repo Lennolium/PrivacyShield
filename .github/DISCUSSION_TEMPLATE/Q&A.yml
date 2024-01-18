@@ -1,4 +1,4 @@
-name: "Q&A"
+name: "Questions and Answers"
 description: "Ask the community or the maintainer for help"
 title: "Question: "
 labels: ["question",]
