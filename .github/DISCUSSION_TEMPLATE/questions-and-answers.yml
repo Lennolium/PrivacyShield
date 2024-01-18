@@ -1,4 +1,7 @@
+title: "Question: "
 labels: [question]
+assignees:
+  - Lennolium
 body:
   - type: markdown
     attributes:
