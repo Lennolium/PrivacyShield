@@ -1,0 +1,156 @@
+name: "Q&A"
+description: "Ask the community or the maintainer for help"
+title: "Question: "
+labels: ["question",]
+assignees:
+  - Lennolium
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <!--- Logo and Header -->
+        <div align="center">  
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_dark.png" 
+        width="500vw">
+          <source media="(prefers-color-scheme: light)" 
+        srcset="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
+        width="500vw">
+          <img alt="PrivacyShield Banner" src="https://github.com/Lennolium/PrivacyShield/raw/master/img/banner_light.png" 
+        width="500vw">
+        </picture>
+        </div>
+        
+        <h2 align="center">False-Positive Submit Form</h2>
+        <div align="center">
+          Provide the following information properly, which will help me to resolve your issue, add the website to the whitelist and remove it from the filter lists quickly.
+          If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
+          Also make sure to check the issues tab for similar issues before submitting this form to avoid duplicates.
+          <br>
+          <br>
+        
+          <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
+            <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?style=flat-square&label=Open%20Issues&color=deepskyblue" alt="open issues" >
+          </a>
+        
+          <a href="https://github.com/Lennolium/PrivacyShield/issues?q=is%3Aissue+is%3Aclosed" > 
+            <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/PrivacyShield?style=flat-square&label=Closed%20Issues&color=aliceblue" alt="closed issues" >
+          </a>  
+        
+        </div>
+        <br>
+        <br>
+
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What kind of issue are you reporting?
+      options:
+        - Website blocked
+        - Website's functionality broken
+        - Image(s) not showing
+        - Mobile app blocked
+        - Other
+      default: 0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      description: What is the domain/url of the website?
+      placeholder: example.org
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Also tell us briefly about the issue with the website. You can also attach screenshots and files here.
+      placeholder: What is the issue with the website? Which platform are you using?
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which List(s) are you using?
+      description: You can select multiple lists from the dropdown below.
+      multiple: true
+      options:
+        - Bronze/Mobile
+        - Silver
+        - Gold
+        - Platinum
+        - Diamond
+        - Antimatter
+        - Domains-only
+        - Hosts
+        - Whitelist
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version are you running? You can find it in the header of the list file.
+      options:
+        - Latest (2.0.0)
+        - 1.1.1
+        - 1.1.0
+        - 1.0.0
+        - Legacy
+      default: 0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: textarea
+    id: other-info
+    attributes:
+      label: Further Information
+      description: Please paste any relevant log output or any other blocked domains here.
+      render: shell
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreements
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Lennolium/PrivacyShield/blob/master/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
+        - label: I confirm that I have searched the issue tracker for similar issues and this is not a duplicate.
+          required: true
