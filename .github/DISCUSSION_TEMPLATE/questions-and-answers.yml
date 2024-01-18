@@ -59,7 +59,7 @@ body:
         <br>
 
   - type: textarea
-    id: description
+    id: question
     attributes:
       label: Question
       description: Here you ask your specific question and provide detailed information. You can also attach screenshots and files here.
@@ -71,7 +71,19 @@ body:
         <br>
 
   - type: input
-    id: domain
+    id: os
+    attributes:
+      label: Operating System
+      description: "If applicable: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, etc.)"
+      placeholder: Operating System name & version
+
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+
+  - type: input
+    id: adblocker
     attributes:
       label: AdBlocker
       description: "If applicable: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, etc.)"
