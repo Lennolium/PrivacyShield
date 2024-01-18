@@ -1,4 +1,4 @@
-name: "\U0001F41B Report a False-Positive"
+name: "\U0001F41B Report a General Issue"
 description: "For all general issues regarding the filter lists"
 title: "General: "
 labels: ["general issue",]
