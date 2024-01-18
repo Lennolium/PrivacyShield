@@ -75,7 +75,7 @@ body:
     attributes:
       label: Operating System
       description: Which operating system are you using? (e.g. Windows, macOS, Linux, Android, iOS, ...)
-      placeholder: Operating System name & version
+      placeholder: Operating System name and version
 
   - type: markdown
     attributes:
@@ -87,7 +87,7 @@ body:
     attributes:
       label: AdBlocker
       description: Which AdBlocker are you using? (e.g. Pi-Hole, AdGuard Home, AdBlock, ...)
-      placeholder: Application name & version
+      placeholder: Application name and version
 
   - type: markdown
     attributes:
