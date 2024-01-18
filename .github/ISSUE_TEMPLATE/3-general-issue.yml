@@ -26,7 +26,8 @@ body:
           Provide the following information properly, which will help me to resolve your issue quickly.
           If you need further help with this form, please do not hesitate and contact me via <a href="mailto:privacyshield@lennolium.dev">email</a>.
           Also make sure to check the issues tab for similar issues before submitting this form to avoid duplicates. 
-          For False-Positives or requesting a website to be added to the lists, please open a respective issue in the <a href="https://github.com/Lennolium/PrivacyShield/issues/new/choose">Issues tab</a>.
+          For reporting <b>false-positives or requesting a website</b> to be added to the lists, please open a respective issue in the <a href="https://github
+        .com/Lennolium/PrivacyShield/issues/new/choose">Issues tab</a>.
           <br>
           <br>
         
